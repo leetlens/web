@@ -1,5 +1,7 @@
 "use client";
 
+import Image from "next/image";
+
 interface CompanyCardProps {
   name: string;
   imageUrl: string;
@@ -17,11 +19,13 @@ export default function LcCompanyCard({
 }: CompanyCardProps) {
   return (
     <div className="bg-sd-card rounded-sd-lg relative flex flex-col items-center gap-2 p-6 shadow">
-      <img
-        className="h-[80px] w-[80px] rounded-md"
+      <Image
+        className="rounded-md"
         src={imageUrl}
         alt={`${name} logo`}
-        draggable="false"
+        width={80}
+        height={80}
+        priority
       />
       <div className="flex w-full flex-col items-center gap-4 overflow-x-hidden">
         <div className="flex w-full flex-col items-center gap-2 overflow-x-hidden">

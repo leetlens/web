@@ -1,7 +1,7 @@
 import CompanyCard from "@/components/lc/lc-companycard";
 import { Container, Main } from "@/components/craft";
 import { AuthenticatedNavbar } from "@/components/landing/Navbar";
-import CompanyQuestions from "@/components/lc/lc-companyquestions";
+import CompanyQuestions from "@/components/lc/lc-companytable";
 
 export default function CompanyPage({
   params,

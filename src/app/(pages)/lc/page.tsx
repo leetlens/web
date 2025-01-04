@@ -10,10 +10,6 @@ export default function LeetcodePage() {
         <LandingHeader />
       </div>
       <CompaniesSearch />
-      
-      <div className="mx-auto max-w-md py-12">
-        <h1>Leetcode</h1>
-      </div>
       <ProblemTable />
     </div>
   );
