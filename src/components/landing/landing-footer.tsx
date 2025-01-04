@@ -15,8 +15,8 @@ import { Github, Twitter, Facebook } from "lucide-react";
 
 // Asset imports
 import Logo from "../assets/logo.svg";
-import { Container, Section } from "./craft";
-import { Button } from "./ui/button";
+import { Container, Section } from "../craft";
+import { Button } from "../ui/button";
 
 export default function Footer() {
   return (

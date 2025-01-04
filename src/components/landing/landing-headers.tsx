@@ -3,9 +3,9 @@ import Balancer from "react-wrap-balancer";
 
 // Local component imports
 import { Container, Section } from "@/components/craft";
-import { Button } from "./ui/button";
+import { Button } from "../ui/button";
 
-const Header = () => {
+const LandingHeaders = () => {
   return (
     <Section>
       <Container className="flex flex-col text-center">
@@ -25,4 +25,4 @@ const Header = () => {
   );
 };
 
-export default Header;
+export default LandingHeaders;

@@ -1,25 +1,23 @@
 "use client";
 
 import { useState } from "react";
-import { TableHeader } from "./TableHeader";
-import { Pagination } from "./Pagination";
-import { TableRow } from "./TableRow";
+import { TableHeader } from "./cn-tableheader";
+import { Pagination } from "./cn-pagination";
+import { TableRow } from "./cn-tablerow";
 
 interface Problem {
   id: number;
   title: string;
-  acceptance: string;
   difficulty: "Easy" | "Medium" | "Hard";
+  avgTimeToSolve: string;
   hasSolution: boolean;
   isComplete?: boolean;
-  companiesAsked?: number;
-  hasAISolution?: boolean;
 }
 
-type SortField = 'title' | 'difficulty' | 'acceptance' | 'companiesAsked';
-type SortOrder = 'asc' | 'desc';
+type SortField = "title" | "difficulty" | "avgTimeToSolve";
+type SortOrder = "asc" | "desc";
 
-export default function Table() {
+export default function CnTable() {
   const [currentPage, setCurrentPage] = useState(1);
   const [itemsPerPage, setItemsPerPage] = useState(20);
   const [searchQuery, setSearchQuery] = useState("");
@@ -32,16 +30,16 @@ export default function Table() {
     {
       id: 2415,
       title: "Reverse Odd Levels of Binary Tree",
-      acceptance: "83.2%",
       difficulty: "Medium",
+      avgTimeToSolve: "45 min",
       hasSolution: true,
       isComplete: true,
     },
     {
       id: 1,
       title: "Two Sum",
-      acceptance: "54.4%",
       difficulty: "Easy",
+      avgTimeToSolve: "30 min",
       hasSolution: true,
     },
     // Add more problems...
@@ -51,26 +49,21 @@ export default function Table() {
     if (!sortConfig) return problems;
 
     return [...problems].sort((a, b) => {
-      if (sortConfig.field === 'title') {
-        return sortConfig.order === 'asc' 
+      if (sortConfig.field === "title") {
+        return sortConfig.order === "asc"
           ? a.title.localeCompare(b.title)
           : b.title.localeCompare(a.title);
       }
-      if (sortConfig.field === 'difficulty') {
+      if (sortConfig.field === "difficulty") {
         const difficultyOrder = { Easy: 1, Medium: 2, Hard: 3 };
-        return sortConfig.order === 'asc'
+        return sortConfig.order === "asc"
           ? difficultyOrder[a.difficulty] - difficultyOrder[b.difficulty]
           : difficultyOrder[b.difficulty] - difficultyOrder[a.difficulty];
       }
-      if (sortConfig.field === 'acceptance') {
-        const aValue = parseFloat(a.acceptance);
-        const bValue = parseFloat(b.acceptance);
-        return sortConfig.order === 'asc' ? aValue - bValue : bValue - aValue;
-      }
-      if (sortConfig.field === 'companiesAsked') {
-        const aValue = a.companiesAsked || 0;
-        const bValue = b.companiesAsked || 0;
-        return sortConfig.order === 'asc' ? aValue - bValue : bValue - aValue;
+      if (sortConfig.field === "avgTimeToSolve") {
+        const aValue = parseInt(a.avgTimeToSolve);
+        const bValue = parseInt(b.avgTimeToSolve);
+        return sortConfig.order === "asc" ? aValue - bValue : bValue - aValue;
       }
       return 0;
     });
@@ -81,10 +74,10 @@ export default function Table() {
       if (currentConfig?.field === field) {
         return {
           field,
-          order: currentConfig.order === 'asc' ? 'desc' : 'asc',
+          order: currentConfig.order === "asc" ? "desc" : "asc",
         };
       }
-      return { field, order: 'asc' };
+      return { field, order: "asc" };
     });
   };
 
@@ -106,44 +99,41 @@ export default function Table() {
                 <div role="columnheader" className="mx-2 py-[11px] w-[52px]">
                   Status
                 </div>
-                <div 
-                  role="columnheader" 
+                <div
+                  role="columnheader"
                   className="mx-2 py-[11px] w-[600px] cursor-pointer"
-                  onClick={() => handleSort('title')}
+                  onClick={() => handleSort("title")}
                 >
                   Title
-                  {sortConfig?.field === 'title' && (
+                  {sortConfig?.field === "title" && (
                     <span className="ml-1">
-                      {sortConfig.order === 'asc' ? '↑' : '↓'}
+                      {sortConfig.order === "asc" ? "↑" : "↓"}
                     </span>
                   )}
                 </div>
-                <div 
-                  role="columnheader" 
-                  className="mx-2 py-[11px] w-[200px] cursor-pointer"
-                  onClick={() => handleSort('companiesAsked')}
-                >
-                  No.Companies asked
-                  {sortConfig?.field === 'companiesAsked' && (
-                    <span className="ml-1">
-                      {sortConfig.order === 'asc' ? '↑' : '↓'}
-                    </span>
-                  )}
-                </div>
-                <div 
-                  role="columnheader" 
+                <div
+                  role="columnheader"
                   className="mx-2 py-[11px] w-[84px] cursor-pointer"
-                  onClick={() => handleSort('difficulty')}
+                  onClick={() => handleSort("difficulty")}
                 >
                   Difficulty
-                  {sortConfig?.field === 'difficulty' && (
+                  {sortConfig?.field === "difficulty" && (
                     <span className="ml-1">
-                      {sortConfig.order === 'asc' ? '↑' : '↓'}
+                      {sortConfig.order === "asc" ? "↑" : "↓"}
                     </span>
                   )}
                 </div>
-                <div role="columnheader" className="mx-2 py-[11px] w-[84px]">
-                  AI solution
+                <div
+                  role="columnheader"
+                  className="mx-2 py-[11px] w-[120px] cursor-pointer"
+                  onClick={() => handleSort("avgTimeToSolve")}
+                >
+                  Avg Time to Solve
+                  {sortConfig?.field === "avgTimeToSolve" && (
+                    <span className="ml-1">
+                      {sortConfig.order === "asc" ? "↑" : "↓"}
+                    </span>
+                  )}
                 </div>
               </div>
             </div>

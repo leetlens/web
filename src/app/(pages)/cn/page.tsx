@@ -1,6 +1,6 @@
 import { Container } from "@/components/craft";
 import { Main } from "@/components/craft";
-import { AuthenticatedNavbar } from "@/components/Navbar";
+import { AuthenticatedNavbar } from "@/components/landing/Navbar";
 
 export default function CnPage() {
   return (

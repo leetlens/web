@@ -1,12 +1,14 @@
+"use client";
+
 import { Button } from "@/components/ui/button";
 import { ChevronDownIcon } from "@/assets/icons";
-import { SearchBar } from "./SearchBar";
+import { CnSearchBar } from "./cn-searchbar";
 
 interface TableHeaderProps {
   onSearch: (query: string) => void;
 }
 
-export function TableHeader({ onSearch }: TableHeaderProps) {
+export function CnTableHeader({ onSearch }: TableHeaderProps) {
   return (
     <div className="mb-3 flex flex-col">
       <div className="flex w-full flex-wrap gap-2">
@@ -25,9 +27,9 @@ export function TableHeader({ onSearch }: TableHeaderProps) {
         </div>
 
         <div className="flex min-w-[300px] flex-[4_4_0%] gap-2">
-          <SearchBar onSearch={onSearch} />
+          <CnSearchBar onSearch={onSearch} />
         </div>
       </div>
     </div>
   );
-} 
+}

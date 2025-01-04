@@ -15,7 +15,7 @@ interface TableRowProps {
   problem: Problem;
 }
 
-export function TableRow({ problem }: TableRowProps) {
+export function CnTableRow({ problem }: TableRowProps) {
   return (
     <div
       role="row"

@@ -1,7 +1,7 @@
-import CompanyCard from "@/components/leetcodeComp/CompanyCard";
+import CompanyCard from "@/components/lc/lc-companycard";
 import { Container, Main } from "@/components/craft";
-import { AuthenticatedNavbar } from "@/components/Navbar";
-import CompanyQuestions from "@/components/leetcodeComp/CompanyQuestions";
+import { AuthenticatedNavbar } from "@/components/landing/Navbar";
+import CompanyQuestions from "@/components/lc/lc-companyquestions";
 
 export default function CompanyPage({
   params,

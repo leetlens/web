@@ -1,11 +1,5 @@
-"use client";
-
 import { Button } from "@/components/ui/button";
-import {
-  ChevronDownIcon,
-  ChevronLeftIcon,
-  ChevronRightIcon,
-} from "@/assets/icons";
+import { ChevronDownIcon, ChevronLeftIcon, ChevronRightIcon } from "@/assets/icons";
 
 interface PaginationProps {
   currentPage: number;
@@ -15,7 +9,7 @@ interface PaginationProps {
   onItemsPerPageChange: (items: number) => void;
 }
 
-export function Pagination({
+export function LcPagination({
   currentPage,
   totalPages,
   itemsPerPage,
@@ -33,7 +27,7 @@ export function Pagination({
         <Button
           variant="outline"
           disabled={currentPage === 1}
-          onClick={() => currentPage > 1 && onPageChange(currentPage - 1)}
+          onClick={() => onPageChange(currentPage - 1)}
         >
           <ChevronLeftIcon />
         </Button>
@@ -43,9 +37,7 @@ export function Pagination({
         <Button
           variant="outline"
           disabled={currentPage === totalPages}
-          onClick={() =>
-            currentPage < totalPages && onPageChange(currentPage + 1)
-          }
+          onClick={() => onPageChange(currentPage + 1)}
         >
           <ChevronRightIcon />
         </Button>

@@ -8,7 +8,7 @@ interface CompanyCardProps {
   lastUpdated: string;
 }
 
-export default function CompanyCard({
+export default function LcCompanyCard({
   name,
   imageUrl,
   questionCount,

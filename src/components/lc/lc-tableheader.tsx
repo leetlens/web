@@ -1,8 +1,6 @@
-"use client";
-
 import { Button } from "@/components/ui/button";
 import { ChevronDownIcon } from "@/assets/icons";
-import { SearchBar } from "./SearchBar";
+import { LcSearchBar } from "./lc-searchbar";
 
 interface TableHeaderProps {
   onSearch: (query: string) => void;
@@ -27,7 +25,7 @@ export function TableHeader({ onSearch }: TableHeaderProps) {
         </div>
 
         <div className="flex min-w-[300px] flex-[4_4_0%] gap-2">
-          <SearchBar onSearch={onSearch} />
+          <LcSearchBar onSearch={onSearch} />
         </div>
       </div>
     </div>

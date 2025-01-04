@@ -1,6 +1,6 @@
-import { LoginForm } from "@/components/login-form";
+import { LoginForm } from "@/components/landing/landing-login-form";
 import { Container, Main } from "@/components/craft";
-import Navbar, { AuthenticatedNavbar } from "@/components/Navbar";
+import Navbar, { AuthenticatedNavbar } from "@/components/landing/Navbar";
 
 export default function SignInPage() {
   return (

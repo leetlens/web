@@ -13,7 +13,7 @@ interface Question {
   hasAISolution: boolean;
 }
 
-export default function CompanyQuestions() {
+export default function LcCompanyQuestions() {
   const [searchQuery, setSearchQuery] = useState("");
   const { theme } = useTheme();
 

@@ -11,9 +11,9 @@ import {
 import { ChevronDown, LogOut } from "lucide-react";
 
 import Name from "@/assets/name.svg";
-import { ModeToggle } from "./ui/ModeToggle";
+import { ModeToggle } from "../ui/ModeToggle";
 import { useRouter } from "next/navigation";
-export default function Navbar() {
+export default function LandingNavbar() {
   return (
     <nav className="sticky z-50 top-0 bg-background border-b">
       <div
@@ -56,7 +56,7 @@ export default function Navbar() {
     </nav>
   );
 }
-export function AuthenticatedNavbar() {
+export function LandingAuthenticatedNavbar() {
   const router = useRouter();
 
   return (
