@@ -4,9 +4,13 @@ import "@/components/craft/craft.css";
 import "./globals.css";
 import { Providers } from "@/providers/providers";
 import { Inter } from "next/font/google";
+import { DM_Sans } from "next/font/google";
 import { twMerge } from "tailwind-merge";
+import { Sora } from "next/font/google";
 
 const inter = Inter({ subsets: ["latin"] });
+const dmSans = DM_Sans({ subsets: ["latin"], weight: ["400", "500", "700"] });
+const sora = Sora({ subsets: ["latin"], weight: ["400", "500", "700"] });
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -19,7 +23,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className={twMerge(inter.className, "antialiased bg-background")}>
+      {/* <body className={twMerge(inter.className, "antialiased bg-background")}> */}
+      {/* <body className={twMerge(sora.className, "antialiased bg-background")}> */}
+      <body className={twMerge(dmSans.className, "antialiased bg-background")}>
         <Providers>{children}</Providers>
       </body>
     </html>

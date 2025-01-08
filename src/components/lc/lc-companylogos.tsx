@@ -1,8 +1,8 @@
+import { LCProblem } from "@/types/type";
 import Image from "next/image";
-import { Problem } from "./types/lc-types";
 
 interface CompanyLogosProps {
-  companies: Problem["companies"];
+  companies: LCProblem["companies"];
 }
 
 export default function LcCompanyLogos({ companies }: CompanyLogosProps) {

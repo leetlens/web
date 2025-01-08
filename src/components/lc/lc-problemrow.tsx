@@ -1,15 +1,15 @@
 import Link from "next/link";
 import { Bot, Lightbulb } from "lucide-react";
-import LcDifficultyBadge from "./lc-difficulty-badge";
-import LcCompanyLogos from "./lc-company-logos";
-import LcActionButton from "./lc-action-button";
-import LcStatisticCell from "./lc-statistic-cell";
-import { Problem } from "@/types/type";
+import LcDifficultyBadge from "./lc-difficultybadge";
+import LcCompanyLogos from "./lc-companylogos";
+import LcActionButton from "./lc-actionbutton";
+import LcStatisticCell from "./lc-statisticcell";
+import { LCProblem } from "@/types/type";
 import { formatNumber } from "@/utils/utils";
 import { calculateAcceptanceRate } from "@/utils/utils";
 
 interface ProblemRowProps {
-  problem: Problem;
+  problem: LCProblem;
 }
 
 export default function LcProblemRow({ problem }: ProblemRowProps) {
@@ -45,6 +45,9 @@ export default function LcProblemRow({ problem }: ProblemRowProps) {
         />
       </td>
       <td className="p-4">
+        <LcCompanyLogos companies={problem.companies} />
+      </td>
+      <td className="p-4">
         <LcStatisticCell
           value={formatNumber(problem.statistics.totalSubmitted)}
         />
@@ -53,9 +56,6 @@ export default function LcProblemRow({ problem }: ProblemRowProps) {
         <LcStatisticCell
           value={formatNumber(problem.statistics.totalAccepted)}
         />
-      </td>
-      <td className="p-4">
-        <LcCompanyLogos companies={problem.companies} />
       </td>
       <td className="p-4 text-center">
         <LcActionButton Icon={Lightbulb} />

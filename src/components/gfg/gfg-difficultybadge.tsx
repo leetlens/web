@@ -1,13 +1,13 @@
-import { Problem } from "./types/lc-types";
+import { GFGProblem } from "@/types/type";
 
 interface DifficultyBadgeProps {
-  difficulty: Problem["difficulty"];
+  difficulty: GFGProblem["difficulty"];
 }
 
-export default function LcDifficultyBadge({
+export default function GfgDifficultyBadge({
   difficulty,
 }: DifficultyBadgeProps) {
-  const getDifficultyColor = (difficulty: Problem["difficulty"]) => {
+  const getDifficultyColor = (difficulty: GFGProblem["difficulty"]) => {
     switch (difficulty) {
       case "Easy":
         return "text-green-500 border border-green-500/20 bg-green-500/10 inline-flex items-center gap-1.5 before:w-1.5 before:h-1.5 before:rounded-full before:bg-green-500 px-2.5 py-1 rounded-full";

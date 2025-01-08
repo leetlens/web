@@ -1,16 +1,15 @@
 import { useState } from "react";
-import LcTableHeader from "./lc-table-header";
-import LcProblemRow from "./lc-problem-row";
-import { Problem } from "@/types/type";
-import { SortConfig } from "@/types/type";
+import LcTableHeader from "./lc-tableheader";
+import LcProblemRow from "./lc-problemrow";
+import { LCProblem, LCSortConfig } from "@/types/type";
 
 export default function LcTable() {
-  const [sortConfig, setSortConfig] = useState<SortConfig>({
+  const [sortConfig, setSortConfig] = useState<LCSortConfig>({
     key: null,
     direction: null,
   });
 
-  const problems: Problem[] = [
+  const problems: LCProblem[] = [
     {
       id: "1",
       isCompleted: true,
@@ -112,8 +111,8 @@ export default function LcTable() {
     });
   };
 
-  const requestSort = (key: SortConfig["key"]) => {
-    let direction: SortConfig["direction"] = "asc";
+  const requestSort = (key: LCSortConfig["key"]) => {
+    let direction: LCSortConfig["direction"] = "asc";
 
     if (sortConfig.key === key) {
       if (sortConfig.direction === null) {
@@ -129,18 +128,16 @@ export default function LcTable() {
   };
 
   return (
-    <div className="max-w-[100rem] mx-auto">
-      <div className="rounded-xl border border-zinc-800 bg-zinc-950">
-        <div className="relative w-full overflow-auto">
-          <table className="w-full caption-bottom text-sm">
-            <LcTableHeader sortConfig={sortConfig} onSort={requestSort} />
-            <tbody>
-              {getSortedProblems().map((problem) => (
-                <LcProblemRow key={problem.id} problem={problem} />
-              ))}
-            </tbody>
-          </table>
-        </div>
+    <div className="w-full rounded-xl border border-zinc-800 bg-zinc-950">
+      <div className="relative w-full overflow-auto">
+        <table className="w-full caption-bottom text-sm">
+          <LcTableHeader sortConfig={sortConfig} onSort={requestSort} />
+          <tbody>
+            {getSortedProblems().map((problem) => (
+              <LcProblemRow key={problem.id} problem={problem} />
+            ))}
+          </tbody>
+        </table>
       </div>
     </div>
   );

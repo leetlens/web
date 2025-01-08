@@ -1,15 +1,15 @@
 import { ArrowUpDown, ArrowUp, ArrowDown } from "lucide-react";
-import { SortConfig } from "./types/lc-types";
+import { GFGSortConfig } from "@/types/type";
 
 interface SortButtonProps {
   label: string;
-  sortKey: SortConfig["key"];
-  currentSort: SortConfig;
-  onSort: (key: SortConfig["key"]) => void;
+  sortKey: GFGSortConfig["key"];
+  currentSort: GFGSortConfig;
+  onSort: (key: GFGSortConfig["key"]) => void;
   className?: string;
 }
 
-export default function LcSortButton({
+export default function GfgSortButton({
   label,
   sortKey,
   currentSort,

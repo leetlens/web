@@ -1,12 +1,12 @@
-import { SortConfig } from "./types/lc-types";
-import LcSortButton from "./lc-sort-button";
+import { GFGSortConfig } from "@/types/type";
+import GfgSortButton from "./gfg-sortbutton";
 
 interface TableHeaderProps {
-  sortConfig: SortConfig;
-  onSort: (key: SortConfig["key"]) => void;
+  sortConfig: GFGSortConfig;
+  onSort: (key: GFGSortConfig["key"]) => void;
 }
 
-export default function LcTableHeader({
+export default function GfgTableHeader({
   sortConfig,
   onSort,
 }: TableHeaderProps) {
@@ -17,7 +17,7 @@ export default function LcTableHeader({
           Status
         </th>
         <th className="h-12 w-[60px] px-4 text-left align-middle font-medium text-zinc-400">
-          <LcSortButton
+          <GfgSortButton
             label="#"
             sortKey="id"
             currentSort={sortConfig}
@@ -25,7 +25,7 @@ export default function LcTableHeader({
           />
         </th>
         <th className="h-12 px-4 text-left align-middle font-medium text-zinc-400">
-          <LcSortButton
+          <GfgSortButton
             label="Title"
             sortKey="title"
             currentSort={sortConfig}
@@ -33,7 +33,7 @@ export default function LcTableHeader({
           />
         </th>
         <th className="h-12 px-4 text-left align-middle font-medium text-zinc-400">
-          <LcSortButton
+          <GfgSortButton
             label="Category"
             sortKey="category"
             currentSort={sortConfig}
@@ -41,7 +41,7 @@ export default function LcTableHeader({
           />
         </th>
         <th className="h-12 px-4 text-left align-middle font-medium text-zinc-400">
-          <LcSortButton
+          <GfgSortButton
             label="Difficulty"
             sortKey="difficulty"
             currentSort={sortConfig}
@@ -49,40 +49,16 @@ export default function LcTableHeader({
           />
         </th>
         <th className="h-12 px-4 text-center align-middle font-medium text-zinc-400">
-          <LcSortButton
-            label="Acceptance"
-            sortKey="acceptance"
-            currentSort={sortConfig}
-            onSort={onSort}
-            className="justify-center mx-auto"
-          />
-        </th>
-        <th className="h-12 px-4 text-center align-middle font-medium text-zinc-400">
-          <LcSortButton
-            label="Submissions"
-            sortKey="totalSubmitted"
-            currentSort={sortConfig}
-            onSort={onSort}
-            className="justify-center mx-auto"
-          />
-        </th>
-        <th className="h-12 px-4 text-center align-middle font-medium text-zinc-400">
-          <LcSortButton
-            label="Accepted"
-            sortKey="totalAccepted"
-            currentSort={sortConfig}
-            onSort={onSort}
-            className="justify-center mx-auto"
-          />
-        </th>
-        <th className="h-12 px-4 text-center align-middle font-medium text-zinc-400">
-          <LcSortButton
+          <GfgSortButton
             label="Companies"
             sortKey="companiesCount"
             currentSort={sortConfig}
             onSort={onSort}
             className="justify-center mx-auto"
           />
+        </th>
+        <th className="h-12 px-4 text-center align-middle font-medium text-zinc-400">
+          Solutions
         </th>
         <th className="h-12 px-4 text-center align-middle font-medium text-zinc-400">
           Hints

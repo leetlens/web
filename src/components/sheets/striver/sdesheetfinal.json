@@ -1,0 +1,3517 @@
+[
+  {
+    "question_step_no": 1,
+    "question_step_title": "Arrays",
+    "steps": [
+      {
+        "question_step_no": 1,
+        "question_step_title": "Set Matrix Zeros",
+        "question_id": "stmtrixzrs",
+        "question_sl_no": 1,
+        "question_title": "Arrays",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/set-matrix-zero/",
+        "question_lc_link": "https://leetcode.com/problems/set-matrix-zeroes/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/zero-matrix_1171153?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3SVaSig",
+        "question_yt_link": "https://youtu.be/N0MgLvceX7M",
+        "question_topics": [
+          "Arrays",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 1,
+        "question_step_title": "Pascal's Triangle",
+        "question_id": "psclstringl",
+        "question_sl_no": 2,
+        "question_title": "Arrays",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/program-to-generate-pascals-triangle/",
+        "question_lc_link": "https://leetcode.com/problems/pascals-triangle/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/print-pascal-s-triangle_6917910?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3C95qlR",
+        "question_yt_link": "https://youtu.be/bR7mQgwQ_o8",
+        "question_topics": [
+          "Arrays",
+          "Data Structures",
+          "Maths"
+        ]
+      },
+      {
+        "question_step_no": 1,
+        "question_step_title": "Next Permutation",
+        "question_id": "nxtprmttin",
+        "question_sl_no": 3,
+        "question_title": "Arrays",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/next_permutation-find-next-lexicographically-greater-permutation/",
+        "question_lc_link": "https://leetcode.com/problems/next-permutation/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/next-greater-permutation_6929564?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3dug78u",
+        "question_yt_link": "https://youtu.be/JDOXKqF60RQ",
+        "question_topics": [
+          "Arrays",
+          "Data Structures",
+          "Two Pointer"
+        ]
+      },
+      {
+        "question_step_no": 1,
+        "question_step_title": "Kadane's Algorithm",
+        "question_id": "kdnslgrithm",
+        "question_sl_no": 4,
+        "question_title": "Arrays",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/",
+        "question_lc_link": "https://leetcode.com/problems/maximum-subarray/",
+        "question_cn_link": "https://bit.ly/3HZltTa",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/AHZpyENo7k4",
+        "question_topics": [
+          "Arrays",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 1,
+        "question_step_title": "Sort an array of 0's, 1's and 2's",
+        "question_id": "srtnrryf0s1s2s",
+        "question_sl_no": 5,
+        "question_title": "Arrays",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/",
+        "question_lc_link": "https://leetcode.com/problems/sort-colors/",
+        "question_cn_link": "https://bit.ly/3tlM60B",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=tp8JIuCXBaU&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=20",
+        "question_topics": [
+          "Arrays",
+          "Two Pointer",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 1,
+        "question_step_title": "Stock Buy and Sell",
+        "question_id": "stckbyndsll",
+        "question_sl_no": 6,
+        "question_title": "Arrays",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/stock-buy-and-sell/",
+        "question_lc_link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/best-time-to-buy-and-sell-stock_6194560?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3Qrx6H9",
+        "question_yt_link": "https://youtu.be/excAOvwF_Wk",
+        "question_topics": [
+          "Arrays",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 2,
+    "question_step_title": "Arrays Part-II",
+    "steps": [
+      {
+        "question_step_no": 2,
+        "question_step_title": "Rotate Matrix",
+        "question_id": "rttmtrix",
+        "question_sl_no": 1,
+        "question_title": "Arrays Part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/rotate-image-by-90-degree/",
+        "question_lc_link": "https://leetcode.com/problems/rotate-image/",
+        "question_cn_link": "https://bit.ly/3rhVUWx",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/Z0R2u6gd3GU",
+        "question_topics": [
+          "Arrays",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 2,
+        "question_step_title": "Merge Overlapping Subintervals",
+        "question_id": "mrgvrlppingsbintrvls",
+        "question_sl_no": 2,
+        "question_title": "Arrays Part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/",
+        "question_lc_link": "https://leetcode.com/problems/merge-intervals/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/merge-all-overlapping-intervals_6783452?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3zRz904",
+        "question_yt_link": "https://youtu.be/IexN60k62jo",
+        "question_topics": [
+          "Arrays",
+          "Data Structures",
+          "Sorting"
+        ]
+      },
+      {
+        "question_step_no": 2,
+        "question_step_title": "Merge two sorted arrays without extra space",
+        "question_id": "mrgtwsrtdrryswithtxtrspc",
+        "question_sl_no": 3,
+        "question_title": "Arrays Part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/",
+        "question_lc_link": "https://leetcode.com/problems/merge-sorted-array/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/merge-two-sorted-arrays-without-extra-space_6898839?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3zRzmAo",
+        "question_yt_link": "https://youtu.be/n7uwj04E0I4",
+        "question_topics": [
+          "Arrays",
+          "Sorting",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 2,
+        "question_step_title": "Find the duplicate in an array of N+1 integers",
+        "question_id": "findthdplictinnrryfn1intgrs",
+        "question_sl_no": 4,
+        "question_title": "Arrays Part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/find-the-duplicate-in-an-array-of-n1-integers/",
+        "question_lc_link": "https://leetcode.com/problems/find-the-duplicate-number/",
+        "question_cn_link": "https://bit.ly/3GtKDJb",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=32Ll35mhWg0&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=1",
+        "question_topics": [
+          "Arrays",
+          "Data Structures",
+          "Hashing"
+        ]
+      },
+      {
+        "question_step_no": 2,
+        "question_step_title": "Repeat and Missing Number",
+        "question_id": "rptndmissingnmbr",
+        "question_sl_no": 5,
+        "question_title": "Arrays Part-II",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/",
+        "question_lc_link": "https://www.interviewbit.com/problems/repeat-and-missing-number-array/",
+        "question_cn_link": "https://bit.ly/3Gs6wZu",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/2D0D8HE6uak",
+        "question_topics": [
+          "Arrays",
+          "Hashing",
+          "Maths",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 2,
+        "question_step_title": "Inversion of Array (Pre-req: Merge Sort)",
+        "question_id": "invrsinfrryprrqmrgsrt",
+        "question_sl_no": 6,
+        "question_title": "Arrays Part-II",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/count-inversions-in-an-array/",
+        "question_lc_link": "https://www.codingninjas.com/codestudio/problems/count-inversions_615",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/count-inversions_615",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/AseUmwVNaoY",
+        "question_topics": [
+          "Arrays",
+          "Data Structures",
+          "Sorting"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 3,
+    "question_step_title": "Arrays Part-III",
+    "steps": [
+      {
+        "question_step_no": 3,
+        "question_step_title": "Search in a 2 D matrix",
+        "question_id": "srchin2dmtrix",
+        "question_sl_no": 1,
+        "question_title": "Arrays Part-III",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/search-in-a-sorted-2d-matrix/",
+        "question_lc_link": "https://leetcode.com/problems/search-a-2d-matrix/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/search-in-a-2d-matrix_980531?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3dAwi3Z",
+        "question_yt_link": "https://youtu.be/JXU4Akft7yk",
+        "question_topics": [
+          "Binary Search",
+          "Arrays",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 3,
+        "question_step_title": "Pow(x, n)",
+        "question_id": "pwxn",
+        "question_sl_no": 2,
+        "question_title": "Arrays Part-III",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n/",
+        "question_lc_link": "https://leetcode.com/problems/powx-n/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/find-x-raised-to-power-n-_626560?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3QLc6uD",
+        "question_yt_link": "https://youtu.be/l0YC3876qxg",
+        "question_topics": [
+          "Maths",
+          "Recursion"
+        ]
+      },
+      {
+        "question_step_no": 3,
+        "question_step_title": "Majority Element (>n/2 times)",
+        "question_id": "mjritylmntn2tims",
+        "question_sl_no": 3,
+        "question_title": "Arrays Part-III",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/find-the-majority-element-that-occurs-more-than-n-2-times/",
+        "question_lc_link": "https://leetcode.com/problems/majority-element/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/majority-element_6783241?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3SSpeA3",
+        "question_yt_link": "https://youtu.be/nP_ns3uSh80",
+        "question_topics": [
+          "Arrays",
+          "Hashing",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 3,
+        "question_step_title": "Majority Element (n/3 times)",
+        "question_id": "mjritylmntn3tims",
+        "question_sl_no": 4,
+        "question_title": "Arrays Part-III",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/majority-elementsn-3-times-find-the-elements-that-appears-more-than-n-3-times-in-the-array/",
+        "question_lc_link": "https://leetcode.com/problems/majority-element-ii/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/majority-element_6915220?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/vwZj1K0e9U8",
+        "question_topics": [
+          "Arrays",
+          "Hashing",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 3,
+        "question_step_title": "Grid Unique Paths",
+        "question_id": "gridniqpths",
+        "question_sl_no": 5,
+        "question_title": "Arrays Part-III",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/grid-unique-paths-count-paths-from-left-top-to-the-right-bottom-of-a-matrix/",
+        "question_lc_link": "https://leetcode.com/problems/unique-paths/",
+        "question_cn_link": "https://bit.ly/3fm1dyN",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/t_f0nwwdg5o",
+        "question_topics": [
+          "Arrays",
+          "Recursion",
+          "Dynamic Programming",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 3,
+        "question_step_title": "Reverse Pairs (Leetcode)",
+        "question_id": "rvrspirsltcd",
+        "question_sl_no": 6,
+        "question_title": "Arrays Part-III",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/count-reverse-pairs/",
+        "question_lc_link": "https://leetcode.com/problems/reverse-pairs/",
+        "question_cn_link": "https://bit.ly/3tm5PgF",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/0e4bZaP3MDI",
+        "question_topics": [
+          "Arrays",
+          "Sorting",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 4,
+    "question_step_title": "Arrays Part-IV",
+    "steps": [
+      {
+        "question_step_no": 4,
+        "question_step_title": "2Sum Problem",
+        "question_id": "2smprblm",
+        "question_sl_no": 1,
+        "question_title": "Arrays Part-IV",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array/",
+        "question_lc_link": "https://leetcode.com/problems/two-sum/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/reading_6845742?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3SVYU8f",
+        "question_yt_link": "https://youtu.be/UXDSeD9mN-k",
+        "question_topics": [
+          "Arrays",
+          "Sorting",
+          "Data Structures",
+          "Two Pointer"
+        ]
+      },
+      {
+        "question_step_no": 4,
+        "question_step_title": "4-Sum Problem",
+        "question_id": "4smprblm",
+        "question_sl_no": 2,
+        "question_title": "Arrays Part-IV",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/4-sum-find-quads-that-add-up-to-a-target-value/",
+        "question_lc_link": "https://leetcode.com/problems/4sum/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/4sum_5713771?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3psQR53",
+        "question_yt_link": "https://youtu.be/eD95WRfh81c",
+        "question_topics": [
+          "Arrays",
+          "Sorting",
+          "Data Structures",
+          "Two Pointer",
+          "Hashing"
+        ]
+      },
+      {
+        "question_step_no": 4,
+        "question_step_title": "Longest Consecutive Sequence",
+        "question_id": "lngstcnsctivsqnc",
+        "question_sl_no": 3,
+        "question_title": "Arrays Part-IV",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array/",
+        "question_lc_link": "https://leetcode.com/problems/longest-consecutive-sequence/",
+        "question_cn_link": "https://bit.ly/34EoAS0",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=oO5uLE7EUlM&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=28",
+        "question_topics": [
+          "Arrays",
+          "Hashing",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 4,
+        "question_step_title": "Largest Subarray with K sum",
+        "question_id": "lrgstsbrrywithksm",
+        "question_sl_no": 4,
+        "question_title": "Arrays Part-IV",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/length-of-the-longest-subarray-with-zero-sum/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1",
+        "question_cn_link": "https://bit.ly/31UHoeM",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1",
+        "question_yt_link": "https://youtu.be/frf7qxiN2qU",
+        "question_topics": [
+          "Arrays",
+          "Hashing",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 4,
+        "question_step_title": "Count number of subarrays with given xor K",
+        "question_id": "cntnmbrfsbrryswithgivnxrk",
+        "question_sl_no": 5,
+        "question_title": "Arrays Part-IV",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/count-the-number-of-subarrays-with-given-xor-k/",
+        "question_lc_link": "https://www.interviewbit.com/problems/subarray-with-given-xor/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/subarrays-with-xor-k_6826258?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3PrvhZs",
+        "question_yt_link": "https://youtu.be/eZr-6p0B7ME",
+        "question_topics": [
+          "Arrays",
+          "Hashing",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 4,
+        "question_step_title": "Longest Substring without repeat",
+        "question_id": "lngstsbstringwithtrpt",
+        "question_sl_no": 6,
+        "question_title": "Arrays Part-IV",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/length-of-longest-substring-without-any-repeating-character/",
+        "question_lc_link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+        "question_cn_link": "https://bit.ly/3no44fb",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=qtVh-XEpsJo&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=26",
+        "question_topics": [
+          "String",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 5,
+    "question_step_title": "Linked List",
+    "steps": [
+      {
+        "question_step_no": 5,
+        "question_step_title": "Reverse a LinkedList",
+        "question_id": "rvrslinkdlist",
+        "question_sl_no": 1,
+        "question_title": "Linked List",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/reverse-a-linked-list/",
+        "question_lc_link": "https://leetcode.com/problems/reverse-linked-list/",
+        "question_cn_link": "https://bit.ly/3qoE6K6",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=iRtLEoL-r-g&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=27",
+        "question_topics": [
+          "Linked List",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 5,
+        "question_step_title": "Find the middle of LinkedList",
+        "question_id": "findthmiddlflinkdlist",
+        "question_sl_no": 2,
+        "question_title": "Linked List",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/find-middle-element-in-a-linked-list/",
+        "question_lc_link": "https://leetcode.com/problems/middle-of-the-linked-list/",
+        "question_cn_link": "https://bit.ly/3KcRxoG",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=sGdwSH8RK-o&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=28",
+        "question_topics": [
+          "Linked List",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 5,
+        "question_step_title": "Merge two sorted Linked List (use method used in mergeSort)",
+        "question_id": "mrgtwsrtdlinkdlistsmthdsdinmrgsrt",
+        "question_sl_no": 3,
+        "question_title": "Linked List",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/merge-two-sorted-linked-lists/",
+        "question_lc_link": "https://leetcode.com/problems/merge-two-sorted-lists/",
+        "question_cn_link": "https://bit.ly/3qnbSj8",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=Xb4slcp1U38&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=29",
+        "question_topics": [
+          "Unknown"
+        ]
+      },
+      {
+        "question_step_no": 5,
+        "question_step_title": "Remove N-th node from back of LinkedList",
+        "question_id": "rmvnthndfrmbckflinkdlist",
+        "question_sl_no": 4,
+        "question_title": "Linked List",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/remove-n-th-node-from-the-end-of-a-linked-list/",
+        "question_lc_link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+        "question_cn_link": "https://bit.ly/3riZ4JB",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=Lhu3MsXZy-Q&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=30",
+        "question_topics": [
+          "Linked List",
+          "Two Pointer",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 5,
+        "question_step_title": "Add two numbers as LinkedList",
+        "question_id": "ddtwnmbrsslinkdlist",
+        "question_sl_no": 5,
+        "question_title": "Linked List",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/add-two-numbers-represented-as-linked-lists/",
+        "question_lc_link": "https://leetcode.com/problems/add-two-numbers/",
+        "question_cn_link": "https://bit.ly/3qqbgcq",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=LBVsXSMOIk4&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=32",
+        "question_topics": [
+          "Linked List",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 5,
+        "question_step_title": "Delete a given Node when a node is given.(0(1) solution)",
+        "question_id": "dltgivnndwhnndisgivn01sltin",
+        "question_sl_no": 6,
+        "question_title": "Linked List",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/delete-given-node-in-a-linked-list-o1-approach/",
+        "question_lc_link": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+        "question_cn_link": "https://bit.ly/3GqW4kN",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=icnp4FJdZ_c&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=31",
+        "question_topics": [
+          "Linked List",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 6,
+    "question_step_title": "Linked List Part-II",
+    "steps": [
+      {
+        "question_step_no": 6,
+        "question_step_title": "Find intersection point of Y LinkedList",
+        "question_id": "findintrsctinpintfylinkdlist",
+        "question_sl_no": 1,
+        "question_title": "Linked List Part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/find-intersection-of-two-linked-lists/",
+        "question_lc_link": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+        "question_cn_link": "https://bit.ly/3fiMQeG",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=u4FWXfgS8jw&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=33",
+        "question_topics": [
+          "Linked List",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 6,
+        "question_step_title": "Detect a cycle in Linked List",
+        "question_id": "dtctcyclinlinkdlist",
+        "question_sl_no": 2,
+        "question_title": "Linked List Part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/detect-a-cycle-in-a-linked-list/",
+        "question_lc_link": "https://leetcode.com/problems/linked-list-cycle/",
+        "question_cn_link": "https://bit.ly/3I2fmxh",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=354J83hX7RI&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=34",
+        "question_topics": [
+          "Linked List",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 6,
+        "question_step_title": "Reverse a LinkedList in groups of size k.",
+        "question_id": "rvrslinkdlistingrpsfsizk",
+        "question_sl_no": 3,
+        "question_title": "Linked List Part-II",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/reverse-linked-list-in-groups-of-size-k/",
+        "question_lc_link": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+        "question_cn_link": "https://bit.ly/3Gsfk1u",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=Of0HPkk3JgI&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=34",
+        "question_topics": [
+          "Linked List",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 6,
+        "question_step_title": "Check if a LinkedList is palindrome or not.",
+        "question_id": "chckiflinkdlistisplindrmrnt",
+        "question_sl_no": 4,
+        "question_title": "Linked List Part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/check-if-given-linked-list-is-plaindrome/",
+        "question_lc_link": "https://leetcode.com/problems/palindrome-linked-list/",
+        "question_cn_link": "https://bit.ly/3GqRMKv",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=-DtNInqFUXs&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=36",
+        "question_topics": [
+          "Linked List",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 6,
+        "question_step_title": "Find the starting point of the Loop of LinkedList",
+        "question_id": "findthstrtingpintfthlpflinkdlist",
+        "question_sl_no": 5,
+        "question_title": "Linked List Part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/starting-point-of-loop-in-a-linked-list/",
+        "question_lc_link": "https://leetcode.com/problems/linked-list-cycle-ii/",
+        "question_cn_link": "https://bit.ly/3K32lpf",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=QfbOhn0WZ88&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=37",
+        "question_topics": [
+          "Linked List",
+          "Hashing",
+          "Two Pointer",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 6,
+        "question_step_title": "Flattening of a LinkedList",
+        "question_id": "flttningflinkdlist",
+        "question_sl_no": 6,
+        "question_title": "Linked List Part-II",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/flattening-a-linked-list/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1",
+        "question_cn_link": "https://bit.ly/3nqtEA1",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1",
+        "question_yt_link": "https://www.youtube.com/watch?v=ysytSSXpAI0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=38",
+        "question_topics": [
+          "Linked List",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 7,
+    "question_step_title": "Linked List and Arrays",
+    "steps": [
+      {
+        "question_step_no": 7,
+        "question_step_title": "Rotate a LinkedList",
+        "question_id": "rttlinkdlist",
+        "question_sl_no": 1,
+        "question_title": "Linked List and Arrays",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/rotate-a-linked-list/",
+        "question_lc_link": "https://leetcode.com/problems/rotate-list/description/",
+        "question_cn_link": "https://bit.ly/33bNQPo",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=9VPm6nEbVPA&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=39",
+        "question_topics": [
+          "Linked List",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 7,
+        "question_step_title": "Clone a Linked List with random and next pointer",
+        "question_id": "clnlinkdlistwithrndmndnxtpintr",
+        "question_sl_no": 2,
+        "question_title": "Linked List and Arrays",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/clone-linked-list-with-random-and-next-pointer/",
+        "question_lc_link": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/clone-a-linked-list-with-random-pointers_983604?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3PpM6np",
+        "question_yt_link": "https://youtu.be/q570bKdrnlw?si=epZtpWvtNwuTf23o",
+        "question_topics": [
+          "Linked List",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 7,
+        "question_step_title": "3 sum",
+        "question_id": "3sm",
+        "question_sl_no": 3,
+        "question_title": "Linked List and Arrays",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/3-sum-find-triplets-that-add-up-to-a-zero/",
+        "question_lc_link": "https://leetcode.com/problems/3sum/",
+        "question_cn_link": "https://bit.ly/33wlWxk",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/DhFh8Kw7ymk",
+        "question_topics": [
+          "Arrays",
+          "Sorting",
+          "Two Pointer",
+          "Data Structures",
+          "Hashing"
+        ]
+      },
+      {
+        "question_step_no": 7,
+        "question_step_title": "Trapping Rainwater",
+        "question_id": "trppingrinwtr",
+        "question_sl_no": 4,
+        "question_title": "Linked List and Arrays",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/trapping-rainwater/",
+        "question_lc_link": "https://leetcode.com/problems/trapping-rain-water/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/trapping-rain-water_630519?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3AqMa1W",
+        "question_yt_link": "https://youtu.be/1_5VuquLbXg?si=NFG6df318_6OtGvg",
+        "question_topics": [
+          "Arrays",
+          "Stack",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 7,
+        "question_step_title": "Remove Duplicate from Sorted array",
+        "question_id": "rmvdplictfrmsrtdrry",
+        "question_sl_no": 5,
+        "question_title": "Linked List and Arrays",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/remove-duplicates-in-place-from-sorted-array/",
+        "question_lc_link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+        "question_cn_link": "https://bit.ly/31Usllh",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/37E9ckMDdTk?t=1888",
+        "question_topics": [
+          "Arrays",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 7,
+        "question_step_title": "Max consecutive ones",
+        "question_id": "mxcnsctivns",
+        "question_sl_no": 6,
+        "question_title": "Linked List and Arrays",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/count-maximum-consecutive-ones-in-the-array/",
+        "question_lc_link": "https://leetcode.com/problems/max-consecutive-ones/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/892994?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/bYWLJb3vCWY?t=1124",
+        "question_topics": [
+          "Arrays",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 8,
+    "question_step_title": "Greedy Algorithm",
+    "steps": [
+      {
+        "question_step_no": 8,
+        "question_step_title": "N meetings in one room",
+        "question_id": "nmtingsinnrm",
+        "question_sl_no": 1,
+        "question_title": "Greedy Algorithm",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/n-meetings-in-one-room/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/maximum-meetings_1062658?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3A6Ob1Y",
+        "question_yt_link": "https://youtu.be/mKfhTotEguk?si=2RELeq18mpmIIN3Q",
+        "question_topics": [
+          "Arrays",
+          "Greedy",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 8,
+        "question_step_title": "Minimum number of platforms required for a railway",
+        "question_id": "minimmnmbrfpltfrmsrqirdfrrilwy",
+        "question_sl_no": 2,
+        "question_title": "Greedy Algorithm",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/minimum-number-of-platforms-required-for-a-railway/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/minimum-number-of-platforms_799400?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3bXX5Hm",
+        "question_yt_link": "https://youtu.be/AsGzwR_FWok?si=165acXU_dtqOHuo9",
+        "question_topics": [
+          "Arrays",
+          "Greedy",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 8,
+        "question_step_title": "Job sequencing Problem",
+        "question_id": "jbsqncingprblm",
+        "question_sl_no": 3,
+        "question_title": "Greedy Algorithm",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/job-sequencing-problem/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/job-sequencing-problem_1169460?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3Pttpzj",
+        "question_yt_link": "https://youtu.be/QbwltemZbRg?si=wvcemJ5BLPlTRmkG",
+        "question_topics": [
+          "Greedy",
+          "Data Structures",
+          "Arrays"
+        ]
+      },
+      {
+        "question_step_no": 8,
+        "question_step_title": "Fractional Knapsack Problem",
+        "question_id": "frctinlknpsckprblm",
+        "question_sl_no": 4,
+        "question_title": "Greedy Algorithm",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/fractional-knapsack-problem-greedy-approach/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/fractional-knapsack_975286?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3PsqOFL",
+        "question_yt_link": "https://youtu.be/1ibsQrnuEEg?si=8R2By3wpHo0zZVHE",
+        "question_topics": [
+          "Greedy",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 8,
+        "question_step_title": "Greedy algorithm to find minimum number of coins",
+        "question_id": "grdylgrithmtfindminimmnmbrfcins",
+        "question_sl_no": 5,
+        "question_title": "Greedy Algorithm",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/find-minimum-number-of-coins/",
+        "question_lc_link": "https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/find-minimum-number-of-coins_975277?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3Ka7xYU",
+        "question_yt_link": "https://www.youtube.com/watch?v=mVg9CfJvayM&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=48",
+        "question_topics": [
+          "Greedy",
+          "Arrays",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 8,
+        "question_step_title": "Assign Cookies",
+        "question_id": "ctivityslctinitisthsmsnmtinginnrm",
+        "question_sl_no": 6,
+        "question_title": "Greedy Algorithm",
+        "question_difficulty": "Medium",
+        "question_post_link": "",
+        "question_lc_link": "https://leetcode.com/problems/assign-cookies/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/assign-cookies_8390826?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1",
+        "question_yt_link": "https://youtu.be/DIX2p7vb9co?si=6G7JzMZ2TSP_LWSG",
+        "question_topics": [
+          "Greedy",
+          "Arrays",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 9,
+    "question_step_title": "Recursion",
+    "steps": [
+      {
+        "question_step_no": 9,
+        "question_step_title": "Subset Sums",
+        "question_id": "sbstsms",
+        "question_sl_no": 1,
+        "question_title": "Recursion",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/subset-sum-sum-of-all-subsets/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/subset-sums2234/1",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/subset-sum_3843086?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/subset-sums2234/1",
+        "question_yt_link": "https://www.youtube.com/watch?v=rYkfBRtMJr8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=52",
+        "question_topics": [
+          "Arrays",
+          "Recursion",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 9,
+        "question_step_title": "Subset-II",
+        "question_id": "sbstii",
+        "question_sl_no": 2,
+        "question_title": "Recursion",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/subset-ii-print-all-the-unique-subsets/",
+        "question_lc_link": "https://leetcode.com/problems/subsets-ii/",
+        "question_cn_link": "https://bit.ly/3qnaLjq",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=RIn3gOkbhQE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=53",
+        "question_topics": [
+          "Arrays",
+          "Recursion",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 9,
+        "question_step_title": "Combination sum-1",
+        "question_id": "cmbintinsm1",
+        "question_sl_no": 3,
+        "question_title": "Recursion",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/combination-sum-1/",
+        "question_lc_link": "https://leetcode.com/problems/combination-sum/",
+        "question_cn_link": "https://bit.ly/3qpmDS1",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=OyZFFqQtu98&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=49",
+        "question_topics": [
+          "Recursion",
+          "Data Structures",
+          "Arrays"
+        ]
+      },
+      {
+        "question_step_no": 9,
+        "question_step_title": "Combination sum-2",
+        "question_id": "cmbintinsm2",
+        "question_sl_no": 4,
+        "question_title": "Recursion",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/combination-sum-ii-find-all-unique-combinations/",
+        "question_lc_link": "https://leetcode.com/problems/combination-sum-ii/",
+        "question_cn_link": "https://bit.ly/3tkbtjk",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=G1fRTGRxXU8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=50",
+        "question_topics": [
+          "Recursion",
+          "Data Structures",
+          "Arrays"
+        ]
+      },
+      {
+        "question_step_no": 9,
+        "question_step_title": "Palindrome Partitioning",
+        "question_id": "plindrmprtitining",
+        "question_sl_no": 5,
+        "question_title": "Recursion",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/palindrome-partitioning/",
+        "question_lc_link": "https://leetcode.com/problems/palindrome-partitioning/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/palindrome-partitioning_626181?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3T63roP",
+        "question_yt_link": "https://www.youtube.com/watch?v=WBgsABoClE0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=51",
+        "question_topics": [
+          "String",
+          "Data Structures",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "question_step_no": 9,
+        "question_step_title": "K-th permutation Sequence",
+        "question_id": "kthprmttinsqnc",
+        "question_sl_no": 6,
+        "question_title": "Recursion",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/find-k-th-permutation-sequence/",
+        "question_lc_link": "https://leetcode.com/problems/permutation-sequence/",
+        "question_cn_link": "https://bit.ly/3KcCP0D",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=wT7gcXLYoao&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=55",
+        "question_topics": [
+          "Maths",
+          "Recursion",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 10,
+    "question_step_title": "Recursion and Backtracking",
+    "steps": [
+      {
+        "question_step_no": 10,
+        "question_step_title": "Print all permutations of a string/array",
+        "question_id": "printllprmttinsfstringrry",
+        "question_sl_no": 1,
+        "question_title": "Recursion and Backtracking",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/print-all-permutations-of-a-string-array/",
+        "question_lc_link": "https://leetcode.com/problems/permutations/",
+        "question_cn_link": "https://bit.ly/3fmwxNV",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=f2ic2Rsc9pU&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=52",
+        "question_topics": [
+          "Recursion",
+          "Arrays",
+          "String",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 10,
+        "question_step_title": "N queens Problem",
+        "question_id": "nqnsprblm",
+        "question_sl_no": 2,
+        "question_title": "Recursion and Backtracking",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/",
+        "question_lc_link": "https://leetcode.com/problems/n-queens/",
+        "question_cn_link": "https://bit.ly/3zSZavC",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=i05Ju7AftcM&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=57",
+        "question_topics": [
+          "Arrays",
+          "Recursion"
+        ]
+      },
+      {
+        "question_step_no": 10,
+        "question_step_title": "Sudoko Solver",
+        "question_id": "sdkslvr",
+        "question_sl_no": 3,
+        "question_title": "Recursion and Backtracking",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/sudoku-solver/",
+        "question_lc_link": "https://leetcode.com/problems/sudoku-solver/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/sudoku-solver_8416969?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3PrA5hs",
+        "question_yt_link": "https://www.youtube.com/watch?v=FWAIf_EVUKE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=58",
+        "question_topics": [
+          "Arrays",
+          "Hashing",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 10,
+        "question_step_title": "M Coloring Problem",
+        "question_id": "mclringprblm",
+        "question_sl_no": 4,
+        "question_title": "Recursion and Backtracking",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/m-coloring-problem/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/m-coloring-problem_981273?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3Cepqnv",
+        "question_yt_link": "https://www.youtube.com/watch?v=wuVwUK25Rfc&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=59",
+        "question_topics": [
+          "Graph",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 10,
+        "question_step_title": "Rat in a Maze",
+        "question_id": "rtinmz",
+        "question_sl_no": 5,
+        "question_title": "Recursion and Backtracking",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/rat-in-a-maze/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/rat-in-a-maze-_8842357?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3pkqK0g",
+        "question_yt_link": "https://www.youtube.com/watch?v=bLGZhJlt4y0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=60",
+        "question_topics": [
+          "Recursion",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 10,
+        "question_step_title": "Word Break (print all ways)",
+        "question_id": "wrdbrkprintllwys",
+        "question_sl_no": 6,
+        "question_title": "Recursion and Backtracking",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": null,
+        "question_cn_link": "https://bit.ly/3FxgW92",
+        "question_gfg_link": null,
+        "question_yt_link": null,
+        "question_topics": [
+          "String",
+          "Hashing",
+          "Dynamic Programming",
+          "Trie",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 11,
+    "question_step_title": "Binary Search",
+    "steps": [
+      {
+        "question_step_no": 11,
+        "question_step_title": "The N-th root of an integer",
+        "question_id": "thnthrtfnintgr",
+        "question_sl_no": 1,
+        "question_title": "Binary Search",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/nth-root-of-a-number-using-binary-search/",
+        "question_lc_link": null,
+        "question_cn_link": "https://bit.ly/3rj7Ib1",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=WjpswYrS2nY&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=62",
+        "question_topics": [
+          "Binary Search",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 11,
+        "question_step_title": "Matrix Median",
+        "question_id": "mtrixmdin",
+        "question_sl_no": 2,
+        "question_title": "Binary Search",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/median-of-row-wise-sorted-matrix/",
+        "question_lc_link": null,
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/median-of-a-row-wise-sorted-matrix_1115473?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3PvwuPk",
+        "question_yt_link": "https://youtu.be/Q9wXgdxJq48?si=ScI_0uzJh7yg8nrX",
+        "question_topics": [
+          "Binary Search",
+          "Arrays",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 11,
+        "question_step_title": "Find the element that appears once in a sorted array, and the rest element appears twice (Binary search)",
+        "question_id": "findthlmntthtpprsncinsrtdrryndthrstlmntpprstwicbinrysrch",
+        "question_sl_no": 3,
+        "question_title": "Binary Search",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/search-single-element-in-a-sorted-array/",
+        "question_lc_link": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+        "question_cn_link": "https://bit.ly/3rng2qC",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=PzszoiY5XMQ&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=64",
+        "question_topics": [
+          "Arrays",
+          "Binary Search",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 11,
+        "question_step_title": "Search element in a sorted and rotated array/ find pivot where it is rotated",
+        "question_id": "srchlmntinsrtdndrttdrryfindpivtwhritisrttd",
+        "question_sl_no": 4,
+        "question_title": "Binary Search",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/search-element-in-a-rotated-sorted-array/",
+        "question_lc_link": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+        "question_cn_link": "https://bit.ly/3nnxGcm",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=r3pMQ8-Ad5s&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=64",
+        "question_topics": [
+          "Arrays",
+          "Binary Search",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 11,
+        "question_step_title": "Median of 2 sorted arrays",
+        "question_id": "mdinf2srtdrrys",
+        "question_sl_no": 5,
+        "question_title": "Binary Search",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/median-of-two-sorted-arrays-of-different-sizes/",
+        "question_lc_link": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/median-of-two-sorted-arrays_985294?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3QPi7Xp",
+        "question_yt_link": "https://youtu.be/C2rRzz-JDk8",
+        "question_topics": [
+          "Arrays",
+          "Binary Search",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 11,
+        "question_step_title": "K-th element of two sorted arrays",
+        "question_id": "kthlmntftwsrtdrrys",
+        "question_sl_no": 6,
+        "question_title": "Binary Search",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/k-th-element-of-two-sorted-arrays/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1",
+        "question_cn_link": "https://bit.ly/3qm0cgu",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1",
+        "question_yt_link": "https://www.youtube.com/watch?v=nv7F4PiLUzo&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=66",
+        "question_topics": [
+          "Arrays",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 11,
+        "question_step_title": "Allocate Minimum Number of Pages",
+        "question_id": "llctminimmnmbrfpgs",
+        "question_sl_no": 7,
+        "question_title": "Binary Search",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/allocate-minimum-number-of-pages/",
+        "question_lc_link": "https://www.interviewbit.com/problems/allocate-books/",
+        "question_cn_link": "https://bit.ly/3FrKxk7",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=gYmWHvRHu-s&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=69",
+        "question_topics": [
+          "Binary Search",
+          "Arrays",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 11,
+        "question_step_title": "Aggressive Cows",
+        "question_id": "ggrssivcws",
+        "question_sl_no": 8,
+        "question_title": "Binary Search",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/aggressive-cows-detailed-solution/",
+        "question_lc_link": "https://www.spoj.com/problems/AGGRCOW/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/aggressive-cows_1082559?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3rBuE5Z",
+        "question_yt_link": "https://youtu.be/R_Mfw4ew-Vo",
+        "question_topics": [
+          "Arrays",
+          "Binary Search",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 12,
+    "question_step_title": "Heaps",
+    "steps": [
+      {
+        "question_step_no": 12,
+        "question_step_title": "Max heap, Min Heap Implementation (Only for interviews)",
+        "question_id": "mxhpminhpimplmnttinnlyfrintrviws",
+        "question_sl_no": 1,
+        "question_title": "Heaps",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": null,
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/min-heap_4691801?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "question_gfg_link": null,
+        "question_yt_link": null,
+        "question_topics": [
+          "Heap",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 12,
+        "question_step_title": "Kth Largest Element",
+        "question_id": "kthlrgstlmnt",
+        "question_sl_no": 2,
+        "question_title": "Heaps",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/kth-largest-smallest-element-in-an-array/",
+        "question_lc_link": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/kth-smallest-and-largest-element-of-array_1115488?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "question_gfg_link": null,
+        "question_yt_link": null,
+        "question_topics": [
+          "Arrays",
+          "Data Structures",
+          "Heap"
+        ]
+      },
+      {
+        "question_step_no": 12,
+        "question_step_title": "Maximum Sum Combination",
+        "question_id": "mximmsmcmbintin",
+        "question_sl_no": 3,
+        "question_title": "Heaps",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": "https://www.interviewbit.com/problems/maximum-sum-combinations/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/median-in-a-stream_975268?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3sSXvTT",
+        "question_yt_link": null,
+        "question_topics": [
+          "Arrays",
+          "Sorting",
+          "Heap",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 12,
+        "question_step_title": "Find Median from Data Stream",
+        "question_id": "findmdinfrmdtstrm",
+        "question_sl_no": 4,
+        "question_title": "Heaps",
+        "question_difficulty": "Hard",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/find-median-from-data-stream/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/median-in-a-stream_975268?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3QIknj4",
+        "question_yt_link": null,
+        "question_topics": [
+          "Two Pointer",
+          "Sorting",
+          "Heap",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 12,
+        "question_step_title": "Merge K sorted arrays",
+        "question_id": "mrgksrtdrrys",
+        "question_sl_no": 5,
+        "question_title": "Heaps",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": "https://www.codingninjas.com/codestudio/problems/merge-k-sorted-arrays_975379",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/merge-k-sorted-arrays_975379",
+        "question_gfg_link": null,
+        "question_yt_link": null,
+        "question_topics": [
+          "Arrays",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 12,
+        "question_step_title": "K most frequent elements",
+        "question_id": "kmstfrqntlmnts",
+        "question_sl_no": 6,
+        "question_title": "Heaps",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/top-k-frequent-elements/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/k-most-frequent-elements_3167808?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3wcIHla",
+        "question_yt_link": null,
+        "question_topics": [
+          "Arrays",
+          "Hashing",
+          "Sorting",
+          "Heap",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 13,
+    "question_step_title": "Stack and Queue",
+    "steps": [
+      {
+        "question_step_no": 13,
+        "question_step_title": "Implement Stack using Arrays",
+        "question_id": "implmntstcksingrrys",
+        "question_sl_no": 1,
+        "question_title": "Stack and Queue",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/implement-stack-using-array/",
+        "question_lc_link": "",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/stack-implementation-using-array_3210209?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3QPJ39w",
+        "question_yt_link": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w",
+        "question_topics": [
+          "Stack",
+          "Arrays",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 13,
+        "question_step_title": "Implement Queue using Arrays",
+        "question_id": "implmntqsingrrys",
+        "question_sl_no": 2,
+        "question_title": "Stack and Queue",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/implement-queue-using-array/",
+        "question_lc_link": "",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/implement-queue-using-arrays_8390825?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3C9HLli",
+        "question_yt_link": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w",
+        "question_topics": [
+          "Arrays",
+          "Queue",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 13,
+        "question_step_title": "Implement Stack using Queue (using single queue)",
+        "question_id": "implmntstcksingqsingsinglq",
+        "question_sl_no": 3,
+        "question_title": "Stack and Queue",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/implement-stack-using-single-queue/",
+        "question_lc_link": "https://leetcode.com/problems/implement-stack-using-queues/",
+        "question_cn_link": "https://bit.ly/3reLgQs",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w",
+        "question_topics": [
+          "Stack",
+          "Queue",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 13,
+        "question_step_title": "Implement Queue using Stack (0(1) amortized method)",
+        "question_id": "implmntqsingstck01mrtizdmthd",
+        "question_sl_no": 4,
+        "question_title": "Stack and Queue",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/implement-queue-using-stack/",
+        "question_lc_link": "https://leetcode.com/problems/implement-queue-using-stacks/",
+        "question_cn_link": "https://bit.ly/3reLeIk",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w",
+        "question_topics": [
+          "Queue",
+          "Stack",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 13,
+        "question_step_title": "Check for balanced parentheses",
+        "question_id": "chckfrblncdprnthss",
+        "question_sl_no": 5,
+        "question_title": "Stack and Queue",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/check-for-balanced-parentheses/",
+        "question_lc_link": "https://leetcode.com/problems/valid-parentheses/",
+        "question_cn_link": "https://bit.ly/3nr1RiO",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/xwjS0iZhw4I?si=UoyKpFn4Q3nf5h2R",
+        "question_topics": [
+          "Stack",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 13,
+        "question_step_title": "Next Greater Element",
+        "question_id": "nxtgrtrlmnt",
+        "question_sl_no": 6,
+        "question_title": "Stack and Queue",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/next-greater-element-using-stack/",
+        "question_lc_link": "https://leetcode.com/problems/next-greater-element-i/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/next-greater-element_670312?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3QNPQAs",
+        "question_yt_link": "https://youtu.be/e7XQLtOQM3I?si=QdcHpTtx6gAHsext",
+        "question_topics": [
+          "Arrays",
+          "Stack",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 13,
+        "question_step_title": "Sort a Stack",
+        "question_id": "srtstck",
+        "question_sl_no": 7,
+        "question_title": "Stack and Queue",
+        "question_difficulty": "Easy",
+        "question_post_link": null,
+        "question_lc_link": null,
+        "question_cn_link": "https://bit.ly/3nptF7k",
+        "question_gfg_link": null,
+        "question_yt_link": null,
+        "question_topics": [
+          "Stack",
+          "Sorting",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 14,
+    "question_step_title": "Stack and Queue Part-II",
+    "steps": [
+      {
+        "question_step_no": 14,
+        "question_step_title": "Next Smaller Element",
+        "question_id": "nxtsmllrlmnt",
+        "question_sl_no": 1,
+        "question_title": "Stack and Queue Part-II",
+        "question_difficulty": "Easy",
+        "question_post_link": null,
+        "question_lc_link": "https://www.interviewbit.com/problems/nearest-smaller-element/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/immediate-smaller-element-_1062597?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3wbhcIL",
+        "question_yt_link": null,
+        "question_topics": [
+          "Arrays",
+          "Stack",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 14,
+        "question_step_title": "LRU cache (IMPORTANT)",
+        "question_id": "lrcchimprtnt",
+        "question_sl_no": 2,
+        "question_title": "Stack and Queue Part-II",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/implement-lru-cache/",
+        "question_lc_link": "https://leetcode.com/problems/lru-cache/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/lru-cache-implementation_670276?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3zZneNN",
+        "question_yt_link": "https://youtu.be/z9bJUPxzFOw?si=IUo_d35rXBD0CBAF",
+        "question_topics": [
+          "Linked List",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 14,
+        "question_step_title": "LFU cache",
+        "question_id": "lfcch",
+        "question_sl_no": 3,
+        "question_title": "Stack and Queue Part-II",
+        "question_difficulty": "Hard",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/lfu-cache/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/lfu-cache_8381892?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3fpYDLQ",
+        "question_yt_link": "https://www.youtube.com/watch?v=0PSB9y8ehbk&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=79",
+        "question_topics": [
+          "Linked List",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 14,
+        "question_step_title": "Largest rectangle in a histogram",
+        "question_id": "lrgstrctnglinhistgrm",
+        "question_sl_no": 4,
+        "question_title": "Stack and Queue Part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/area-of-largest-rectangle-in-histogram/",
+        "question_lc_link": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/largest-rectangle-in-a-histogram_1058184?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3AnVYd5",
+        "question_yt_link": "https://youtu.be/Bzat9vgD0fs?si=DiBlLejXcr6EJoyB",
+        "question_topics": [
+          "Arrays",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 14,
+        "question_step_title": "Sliding Window maximum",
+        "question_id": "slidingwindwmximm",
+        "question_sl_no": 5,
+        "question_title": "Stack and Queue Part-II",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/sliding-window-maximum/",
+        "question_lc_link": "https://leetcode.com/problems/sliding-window-maximum/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/sliding-maximum-_701652?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3w7SSri",
+        "question_yt_link": "https://youtu.be/NwBvene4Imo?si=eU1PY-bcQfk5wdog",
+        "question_topics": [
+          "Queue",
+          "Heap",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 14,
+        "question_step_title": "Implement Min Stack",
+        "question_id": "implmntminstck",
+        "question_sl_no": 6,
+        "question_title": "Stack and Queue Part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/implement-min-stack-o2n-and-on-space-complexity/",
+        "question_lc_link": "https://leetcode.com/problems/min-stack/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/min-stack_3843991?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3JVhFoe",
+        "question_yt_link": "https://youtu.be/NdDIaH91P0g?si=4_Jbsq5trFvfSdUY",
+        "question_topics": [
+          "Stack",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 14,
+        "question_step_title": "Rotten Orange (Using BFS)",
+        "question_id": "rttnrngsingbfs",
+        "question_sl_no": 7,
+        "question_title": "Stack and Queue Part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/",
+        "question_lc_link": "https://leetcode.com/problems/rotting-oranges/",
+        "question_cn_link": "https://bit.ly/33zH0TC",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=yf3oUhkvqA0",
+        "question_topics": [
+          "Stack",
+          "Graph",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 14,
+        "question_step_title": "Stock span problem",
+        "question_id": "stckspnprblm",
+        "question_sl_no": 8,
+        "question_title": "Stack and Queue Part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": "",
+        "question_lc_link": "https://leetcode.com/problems/online-stock-span/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/stock-span_5243295?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3dzHopW",
+        "question_yt_link": "https://youtu.be/eay-zoSRkVc?si=deNNe5i38BOAntha",
+        "question_topics": [
+          "Stack",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 14,
+        "question_step_title": "Find the maximum of minimums of every window size",
+        "question_id": "findthmximmfminimmsfvrywindwsiz",
+        "question_sl_no": 9,
+        "question_title": "Stack and Queue Part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": null,
+        "question_cn_link": "https://bit.ly/3zUYLZz",
+        "question_gfg_link": null,
+        "question_yt_link": null,
+        "question_topics": [
+          "Arrays",
+          "Stack",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 14,
+        "question_step_title": "The Celebrity Problem",
+        "question_id": "thclbrityprblm",
+        "question_sl_no": 10,
+        "question_title": "Stack and Queue Part-II",
+        "question_difficulty": "Hard",
+        "question_post_link": "",
+        "question_lc_link": "https://leetcode.com/accounts/login/?next=/problems/find-the-celebrity/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/the-celebrity-problem_982769?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3dC9IIB",
+        "question_yt_link": "https://youtu.be/cEadsbTeze4?si=olXYfOs7l-SEn2zl",
+        "question_topics": [
+          "Stack",
+          "Queue",
+          "Two Pointer",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 15,
+    "question_step_title": "String",
+    "steps": [
+      {
+        "question_step_no": 15,
+        "question_step_title": "Reverse Words in a String",
+        "question_id": "rvrswrdsinstring",
+        "question_sl_no": 1,
+        "question_title": "String",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/reverse-words-in-a-string/",
+        "question_lc_link": "https://leetcode.com/problems/reverse-words-in-a-string/",
+        "question_cn_link": "https://bit.ly/3FmKc1X",
+        "question_gfg_link": null,
+        "question_yt_link": null,
+        "question_topics": [
+          "Two Pointer",
+          "String",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 15,
+        "question_step_title": "Longest Palindrome in a string",
+        "question_id": "lngstplindrminstring",
+        "question_sl_no": 2,
+        "question_title": "String",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/longest-palindromic-substring/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/day-12-:-longest-palindromic-substring_758900?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": null,
+        "question_yt_link": null,
+        "question_topics": [
+          "String",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 15,
+        "question_step_title": "Roman Number to Integer and vice versa",
+        "question_id": "rmnnmbrtintgrndvicvrs",
+        "question_sl_no": 3,
+        "question_title": "String",
+        "question_difficulty": "Easy",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/roman-to-integer/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/roman-numeral-to-integer_981308?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3AqBlNv",
+        "question_yt_link": null,
+        "question_topics": [
+          "Hashing",
+          "Maths",
+          "String"
+        ]
+      },
+      {
+        "question_step_no": 15,
+        "question_step_title": "Implement ATOI/STRSTR",
+        "question_id": "implmnttistrstr",
+        "question_sl_no": 4,
+        "question_title": "String",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/string-to-integer-atoi/",
+        "question_cn_link": "https://bit.ly/3zXpYeb",
+        "question_gfg_link": null,
+        "question_yt_link": null,
+        "question_topics": [
+          "String",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 15,
+        "question_step_title": "Longest Common Prefix",
+        "question_id": "lngstcmmnprfix",
+        "question_sl_no": 5,
+        "question_title": "String",
+        "question_difficulty": "Easy",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/longest-common-prefix/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/longest-common-prefix_628874?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3QKCyVu",
+        "question_yt_link": null,
+        "question_topics": [
+          "String",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 15,
+        "question_step_title": "Rabin Karp",
+        "question_id": "rbinkrp",
+        "question_sl_no": 6,
+        "question_title": "String",
+        "question_difficulty": "Hard",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/stringmatch-rabincarp_1115738?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/31272eef104840f7430ad9fd1d43b434a4b9596b/1",
+        "question_yt_link": null,
+        "question_topics": [
+          "String",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 16,
+    "question_step_title": "String Part-II",
+    "steps": [
+      {
+        "question_step_no": 16,
+        "question_step_title": "Z-Function",
+        "question_id": "zfnctin",
+        "question_sl_no": 1,
+        "question_title": "String Part-II",
+        "question_difficulty": "Easy",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/implement-strstr/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/pattern-searching-using-z-algorithm_8395752?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/8dcd25918295847b4ced54055eae35a8501181c1/1",
+        "question_yt_link": null,
+        "question_topics": [
+          "String",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 16,
+        "question_step_title": "KMP algo / LPS(pi) array",
+        "question_id": "kmplglpspirry",
+        "question_sl_no": 2,
+        "question_title": "String Part-II",
+        "question_difficulty": "Hard",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/implement-strstr/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/search-pattern-kmp-algorithm_8416386?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/search-pattern0205/1",
+        "question_yt_link": null,
+        "question_topics": [
+          "String",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 16,
+        "question_step_title": "Minimum characters needed to be inserted in the beginning to make it palindromic",
+        "question_id": "minimmchrctrsnddtbinsrtdinthbginningtmkitplindrmic",
+        "question_sl_no": 3,
+        "question_title": "String Part-II",
+        "question_difficulty": "Hard",
+        "question_post_link": null,
+        "question_lc_link": "https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/",
+        "question_cn_link": "https://bit.ly/34RE855",
+        "question_gfg_link": null,
+        "question_yt_link": null,
+        "question_topics": [
+          "String",
+          "Dynamic Programming",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 16,
+        "question_step_title": "Check for Anagrams",
+        "question_id": "chckfrngrms",
+        "question_sl_no": 4,
+        "question_title": "String Part-II",
+        "question_difficulty": "Easy",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/valid-anagram/",
+        "question_cn_link": "https://bit.ly/3K6weoJ",
+        "question_gfg_link": null,
+        "question_yt_link": null,
+        "question_topics": [
+          "String",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 16,
+        "question_step_title": "Count and say",
+        "question_id": "cntndsy",
+        "question_sl_no": 5,
+        "question_title": "String Part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/count-and-say/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/look-and-say-sequence_668478?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3AFdLwR",
+        "question_yt_link": null,
+        "question_topics": [
+          "String",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 16,
+        "question_step_title": "Compare version numbers",
+        "question_id": "cmprvrsinnmbrs",
+        "question_sl_no": 6,
+        "question_title": "String Part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/compare-version-numbers/",
+        "question_cn_link": "https://bit.ly/3GwYuys",
+        "question_gfg_link": null,
+        "question_yt_link": null,
+        "question_topics": [
+          "Two Pointer",
+          "String",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 17,
+    "question_step_title": "Binary Tree",
+    "steps": [
+      {
+        "question_step_no": 17,
+        "question_step_title": "Inorder Traversal",
+        "question_id": "inrdrtrvrsl",
+        "question_sl_no": 1,
+        "question_title": "Binary Tree",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/inorder-traversal-of-binary-tree/",
+        "question_lc_link": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/inorder-traversal_3839605?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=Z_NEgBgbRVI&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=7",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 17,
+        "question_step_title": "Preorder Traversal",
+        "question_id": "prrdrtrvrsl",
+        "question_sl_no": 2,
+        "question_title": "Binary Tree",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/preorder-traversal-of-binary-tree/",
+        "question_lc_link": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/preorder-traversal_3838888?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/RlUu72JrOCQ",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 17,
+        "question_step_title": "Postorder Traversal",
+        "question_id": "pstrdrtrvrsl",
+        "question_sl_no": 3,
+        "question_title": "Binary Tree",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/post-order-traversal-of-binary-tree/",
+        "question_lc_link": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/postorder-traversal_3839614?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/COQOU6klsBg",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 17,
+        "question_step_title": "Morris Inorder Traversal",
+        "question_id": "mrrisinrdrtrvrsl",
+        "question_sl_no": 4,
+        "question_title": "Binary Tree",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/morris-inorder-traversal-of-a-binary-tree/",
+        "question_lc_link": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/inorder-traversal_3839605?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=80Zug6D1_r4&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=38",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 17,
+        "question_step_title": "Morris Preorder Traversal",
+        "question_id": "mrrisprrdrtrvrsl",
+        "question_sl_no": 5,
+        "question_title": "Binary Tree",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/morris-preorder-traversal-of-a-binary-tree/",
+        "question_lc_link": null,
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/preorder-traversal_3838888?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/80Zug6D1_r4",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 17,
+        "question_step_title": "LeftView Of Binary Tree",
+        "question_id": "lftviwfbinrytr",
+        "question_sl_no": 6,
+        "question_title": "Binary Tree",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/right-left-view-of-binary-tree/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1",
+        "question_cn_link": "https://bit.ly/3GtxyQa",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1",
+        "question_yt_link": "https://www.youtube.com/watch?v=KV4mRzTjlAk&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=25",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 17,
+        "question_step_title": "Bottom View of Binary Tree",
+        "question_id": "bttmviwfbinrytr",
+        "question_sl_no": 7,
+        "question_title": "Binary Tree",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/bottom-view-of-a-binary-tree/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/bottom-view-of-binary-tree_893110?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3Asftl0",
+        "question_yt_link": "https://youtu.be/0FtVY6I4pB8",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 17,
+        "question_step_title": "Top View of Binary Tree",
+        "question_id": "tpviwfbinrytr",
+        "question_sl_no": 8,
+        "question_title": "Binary Tree",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/top-view-of-a-binary-tree/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/top-view-of-binary-tree_799401?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3PsvE5T",
+        "question_yt_link": "https://youtu.be/Et9OCDNvJ78",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 17,
+        "question_step_title": "Preorder inorder postorder in a single traversal",
+        "question_id": "prrdrinrdrpstrdrinsingltrvrsl",
+        "question_sl_no": 9,
+        "question_title": "Binary Tree",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/preorder-inorder-postorder-traversals-in-one-traversal/",
+        "question_lc_link": null,
+        "question_cn_link": "https://bit.ly/3rlXpTX",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/ySp2epYvgTE",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 17,
+        "question_step_title": "Vertical order traversal",
+        "question_id": "vrticlrdrtrvrsl",
+        "question_sl_no": 10,
+        "question_title": "Binary Tree",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/vertical-order-traversal-of-binary-tree/",
+        "question_lc_link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+        "question_cn_link": "https://bit.ly/3KaM41v",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/q_a6lpbKJdw",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 17,
+        "question_step_title": "Root to Node Path in Binary Tree",
+        "question_id": "rttndpthinbinrytr",
+        "question_sl_no": 11,
+        "question_title": "Binary Tree",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/print-root-to-node-path-in-a-binary-tree/",
+        "question_lc_link": null,
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/all-root-to-leaf-paths-in-binary-tree._983599?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3QA600D",
+        "question_yt_link": "https://youtu.be/fmflMqVOC7k",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 17,
+        "question_step_title": "Max width of a Binary Tree",
+        "question_id": "mxwidthfbinrytr",
+        "question_sl_no": 12,
+        "question_title": "Binary Tree",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/maximum-width-of-a-binary-tree/",
+        "question_lc_link": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+        "question_cn_link": "https://bit.ly/3rm014d",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/ZbybYvcVLks",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 18,
+    "question_step_title": "Binary Tree part-II",
+    "steps": [
+      {
+        "question_step_no": 18,
+        "question_step_title": "Level order Traversal / Level order traversal in spiral form",
+        "question_id": "lvlrdrtrvrsllvlrdrtrvrslinspirlfrm",
+        "question_sl_no": 1,
+        "question_title": "Binary Tree part-II",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/level-order-traversal-of-a-binary-tree/",
+        "question_lc_link": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/zigzag-binary-tree-traversal_920532?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3K6t9VR",
+        "question_yt_link": "https://youtu.be/EoAsWbO7sqg",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 18,
+        "question_step_title": "Height of a Binary Tree",
+        "question_id": "hightfbinrytr",
+        "question_sl_no": 2,
+        "question_title": "Binary Tree part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/maximum-depth-of-a-binary-tree/",
+        "question_lc_link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/height-of-binary-tree_4609628?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3CitiDM",
+        "question_yt_link": "https://youtu.be/eD3tmO66aBA",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 18,
+        "question_step_title": "Diameter of Binary Tree",
+        "question_id": "dimtrfbinrytr",
+        "question_sl_no": 3,
+        "question_title": "Binary Tree part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/calculate-the-diameter-of-a-binary-tree/",
+        "question_lc_link": "https://leetcode.com/problems/diameter-of-binary-tree/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/diameter-of-binary-tree_920552?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3wcfG9l",
+        "question_yt_link": "https://youtu.be/Rezetez59Nk",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 18,
+        "question_step_title": "Check if the Binary tree is height-balanced or not",
+        "question_id": "chckifthbinrytrishightblncdrnt",
+        "question_sl_no": 4,
+        "question_title": "Binary Tree part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/check-if-the-binary-tree-is-balanced-binary-tree/",
+        "question_lc_link": "https://leetcode.com/problems/balanced-binary-tree/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/is-height-balanced-binary-tree_975497?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3K9YbfB",
+        "question_yt_link": "https://youtu.be/Yt50Jfbd8Po",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 18,
+        "question_step_title": "LCA in Binary Tree",
+        "question_id": "lcinbinrytr",
+        "question_sl_no": 5,
+        "question_title": "Binary Tree part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/lowest-common-ancestor-for-two-given-nodes/",
+        "question_lc_link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/lca-of-binary-tree_920541?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3popvgG",
+        "question_yt_link": "https://youtu.be/_-QHfMDde90",
+        "question_topics": [
+          "Binary Search Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 18,
+        "question_step_title": "Check if two trees are identical or not",
+        "question_id": "chckiftwtrsridnticlrnt",
+        "question_sl_no": 6,
+        "question_title": "Binary Tree part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/check-if-two-trees-are-identical/",
+        "question_lc_link": "https://leetcode.com/problems/same-tree/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/check-identical-trees_799364?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3c2K52Z",
+        "question_yt_link": "https://youtu.be/BhuvF_-PWS0",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 18,
+        "question_step_title": "Zig Zag Traversal of Binary Tree",
+        "question_id": "zigzgtrvrslfbinrytr",
+        "question_sl_no": 7,
+        "question_title": "Binary Tree part-II",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/zig-zag-traversal-of-binary-tree/",
+        "question_lc_link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/zigzag-binary-tree-traversal_920532?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3K4mwn5",
+        "question_yt_link": "https://youtu.be/3OXWEdlIGl4",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 18,
+        "question_step_title": "Boundary Traversal of Binary Tree",
+        "question_id": "bndrytrvrslfbinrytr",
+        "question_sl_no": 8,
+        "question_title": "Binary Tree part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/boundary-traversal-of-a-binary-tree/",
+        "question_lc_link": "https://leetcode.com/problems/boundary-of-binary-tree/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/boundary-traversal-of-binary-tree_790725?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3AsfgOK",
+        "question_yt_link": "https://youtu.be/0ca1nvR0be4",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 19,
+    "question_step_title": "Binary Tree part-III",
+    "steps": [
+      {
+        "question_step_no": 19,
+        "question_step_title": "Maximum path sum",
+        "question_id": "mximmpthsm",
+        "question_sl_no": 1,
+        "question_title": "Binary Tree part-III",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/maximum-sum-path-in-binary-tree/",
+        "question_lc_link": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/maximum-sum-path-of-a-binary-tree._1214968?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3QAFjbW",
+        "question_yt_link": "https://youtu.be/WszrfSwMz58",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 19,
+        "question_step_title": "Construct Binary Tree from inorder and preorder",
+        "question_id": "cnstrctbinrytrfrminrdrndprrdr",
+        "question_sl_no": 2,
+        "question_title": "Binary Tree part-III",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/construct-a-binary-tree-from-inorder-and-preorder-traversal/",
+        "question_lc_link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/construct-binary-tree-from-inorder-and-preorder-traversal_920539?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3AoZ4N5",
+        "question_yt_link": "https://youtu.be/aZNaLrVebKQ",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 19,
+        "question_step_title": "Construct Binary Tree from Inorder and Postorder",
+        "question_id": "cnstrctbinrytrfrminrdrndpstrdr",
+        "question_sl_no": 3,
+        "question_title": "Binary Tree part-III",
+        "question_difficulty": "Hard",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+        "question_cn_link": "https://bit.ly/3qrzumM",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/LgLRTaEMRVc",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 19,
+        "question_step_title": "Symmetric Binary Tree",
+        "question_id": "symmtricbinrytr",
+        "question_sl_no": 4,
+        "question_title": "Binary Tree part-III",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/check-for-symmetrical-binary-tree/",
+        "question_lc_link": "https://leetcode.com/problems/symmetric-tree/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/symmetric-tree_981177?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3PCqBzP",
+        "question_yt_link": "https://youtu.be/nKggiEpBE",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 19,
+        "question_step_title": "Flatten Binary Tree to LinkedList",
+        "question_id": "flttnbinrytrtlinkdlist",
+        "question_sl_no": 5,
+        "question_title": "Binary Tree part-III",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/flatten-binary-tree-to-linked-list/",
+        "question_lc_link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/flatten-binary-tree-to-linked-list_1112615?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3PFzwko",
+        "question_yt_link": "https://youtu.be/sWf7k1x9XR4",
+        "question_topics": [
+          "Binary Tree",
+          "Linked List",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 19,
+        "question_step_title": "Check if Binary Tree is the mirror of itself or not",
+        "question_id": "chckifbinrytristhmirrrfitslfrnt",
+        "question_sl_no": 6,
+        "question_title": "Binary Tree part-III",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/mirror-tree/1",
+        "question_cn_link": "https://bit.ly/3nqSnnQ",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/mirror-tree/1",
+        "question_yt_link": null,
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 19,
+        "question_step_title": "Check for Children Sum Property",
+        "question_id": "chckfrchildrnsmprprty",
+        "question_sl_no": 7,
+        "question_title": "Binary Tree part-III",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/check-for-children-sum-property-in-a-binary-tree/",
+        "question_lc_link": null,
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/children-sum-property_8357239?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3dEr73g",
+        "question_yt_link": "https://youtu.be/fnmisPM6cVo",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 20,
+    "question_step_title": "Binary Search Tree",
+    "steps": [
+      {
+        "question_step_no": 20,
+        "question_step_title": "Populate Next Right pointers of Tree",
+        "question_id": "ppltnxtrightpintrsftr",
+        "question_sl_no": 1,
+        "question_title": "Binary Search Tree",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+        "question_cn_link": "https://bit.ly/33Bm8uX",
+        "question_gfg_link": null,
+        "question_yt_link": null,
+        "question_topics": [
+          "Binary Tree",
+          "Linked List",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 20,
+        "question_step_title": "Search given Key in BST",
+        "question_id": "srchgivnkyinbst",
+        "question_sl_no": 2,
+        "question_title": "Binary Search Tree",
+        "question_difficulty": "Easy",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+        "question_cn_link": "https://bit.ly/3Ft26jR",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/KcNt6v_56cc",
+        "question_topics": [
+          "Binary Search Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 20,
+        "question_step_title": "Construct BST from given keys",
+        "question_id": "cnstrctbstfrmgivnkys",
+        "question_sl_no": 3,
+        "question_title": "Binary Search Tree",
+        "question_difficulty": "Hard",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+        "question_cn_link": "https://bit.ly/3qr5I1t",
+        "question_gfg_link": null,
+        "question_yt_link": null,
+        "question_topics": [
+          "Binary Search Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 20,
+        "question_step_title": "Construct a BST from a preorder traversal",
+        "question_id": "cnstrctbstfrmprrdrtrvrsl",
+        "question_sl_no": 4,
+        "question_title": "Binary Search Tree",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/construct-bst-from-preorder-traversal_2689307?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1",
+        "question_yt_link": "https://youtu.be/UmJT3j26t1I",
+        "question_topics": [
+          "Binary Search Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 20,
+        "question_step_title": "Check is a BT is BST or not",
+        "question_id": "chckisbtisbstrnt",
+        "question_sl_no": 5,
+        "question_title": "Binary Search Tree",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/validate-binary-search-tree/",
+        "question_cn_link": "https://bit.ly/3nmKek7",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/f-sj7I5oXEI",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 20,
+        "question_step_title": "Find LCA of two nodes in BST",
+        "question_id": "findlcftwndsinbst",
+        "question_sl_no": 6,
+        "question_title": "Binary Search Tree",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+        "question_cn_link": "https://bit.ly/3qqoaXM",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/cX_kPV_foZc",
+        "question_topics": [
+          "Binary Search Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 20,
+        "question_step_title": "Find the inorder predecessor/successor of a given Key in BST.",
+        "question_id": "findthinrdrprdcssrsccssrfgivnkyinbst",
+        "question_sl_no": 7,
+        "question_title": "Binary Search Tree",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1",
+        "question_cn_link": "https://bit.ly/3A0hm6l",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1",
+        "question_yt_link": "https://youtu.be/SXKAD2svfmI",
+        "question_topics": [
+          "Binary Search Tree",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 21,
+    "question_step_title": "Binary Search Tree Part-II",
+    "steps": [
+      {
+        "question_step_no": 21,
+        "question_step_title": "Floor in a BST",
+        "question_id": "flrinbst",
+        "question_sl_no": 1,
+        "question_title": "Binary Search Tree Part-II",
+        "question_difficulty": "Easy",
+        "question_post_link": null,
+        "question_lc_link": "https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=xm_W1ub-K-w&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=43",
+        "question_topics": [
+          "Binary Search Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 21,
+        "question_step_title": "Ceil in a BST",
+        "question_id": "cilinbst",
+        "question_sl_no": 2,
+        "question_title": "Binary Search Tree Part-II",
+        "question_difficulty": "Easy",
+        "question_post_link": null,
+        "question_lc_link": "https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=KSsk8AhdOZA&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=42",
+        "question_topics": [
+          "Binary Search Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 21,
+        "question_step_title": "Find K-th smallest element in BST",
+        "question_id": "findkthsmllstlmntinbst",
+        "question_sl_no": 3,
+        "question_title": "Binary Search Tree Part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/kth-largest-smallest-element-in-binary-search-tree/",
+        "question_lc_link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+        "question_cn_link": "https://bit.ly/3rf0HrP",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/9TJYWh0adfk",
+        "question_topics": [
+          "Binary Search Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 21,
+        "question_step_title": "Find K-th largest element in BST",
+        "question_id": "findkthlrgstlmntinbst",
+        "question_sl_no": 4,
+        "question_title": "Binary Search Tree Part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/kth-largest-smallest-element-in-binary-search-tree/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1",
+        "question_cn_link": "https://bit.ly/31Yjtet",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1",
+        "question_yt_link": "https://youtu.be/9TJYWh0adfk",
+        "question_topics": [
+          "Binary Search Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 21,
+        "question_step_title": "Find a pair with a given sum in BST",
+        "question_id": "findpirwithgivnsminbst",
+        "question_sl_no": 5,
+        "question_title": "Binary Search Tree Part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+        "question_cn_link": "https://bit.ly/3FvDAOO",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/ssL3sHwPeb4",
+        "question_topics": [
+          "Binary Search Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 21,
+        "question_step_title": "BST iterator",
+        "question_id": "bstitrtr",
+        "question_sl_no": 6,
+        "question_title": "Binary Search Tree Part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/binary-search-tree-iterator/",
+        "question_cn_link": "https://bit.ly/3FsH5FC",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/D2jMcmxU4bs",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 21,
+        "question_step_title": "Size of the largest BST in a Binary Tree",
+        "question_id": "sizfthlrgstbstinbinrytr",
+        "question_sl_no": 7,
+        "question_title": "Binary Search Tree Part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/",
+        "question_cn_link": "https://bit.ly/3fn6h5V",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/X0oXMdtUDwo",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 21,
+        "question_step_title": "Serialize and deserialize Binary Tree",
+        "question_id": "sriliznddsrilizbinrytr",
+        "question_sl_no": 8,
+        "question_title": "Binary Search Tree Part-II",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/serialize-and-deserialize-a-binary-tree/",
+        "question_lc_link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/serialize-and-deserialize-binary-tree_920328?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3PqPDSE",
+        "question_yt_link": "https://youtu.be/-YbXySKJsX8",
+        "question_topics": [
+          "Binary Tree",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 22,
+    "question_step_title": "Binary Trees[Miscellaneous]",
+    "steps": [
+      {
+        "question_step_no": 22,
+        "question_step_title": "Binary Tree to Double Linked List",
+        "question_id": "binrytrtdbllinkdlist",
+        "question_sl_no": 1,
+        "question_title": "Binary Trees[Miscellaneous]",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+        "question_cn_link": "https://bit.ly/3HVnGz0",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=sWf7k1x9XR4&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=39",
+        "question_topics": [
+          "Binary Tree",
+          "Linked List",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 22,
+        "question_step_title": "Find median in a stream of running integers.",
+        "question_id": "findmdininstrmfrnningintgrs",
+        "question_sl_no": 2,
+        "question_title": "Binary Trees[Miscellaneous]",
+        "question_difficulty": "Hard",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/find-median-from-data-stream/",
+        "question_cn_link": "https://bit.ly/3rkTB58",
+        "question_gfg_link": null,
+        "question_yt_link": null,
+        "question_topics": [
+          "Two Pointer",
+          "Sorting",
+          "Heap",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 22,
+        "question_step_title": "K-th largest element in a stream.",
+        "question_id": "kthlrgstlmntinstrm",
+        "question_sl_no": 3,
+        "question_title": "Binary Trees[Miscellaneous]",
+        "question_difficulty": "Easy",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+        "question_cn_link": "https://bit.ly/3KdiUPp",
+        "question_gfg_link": null,
+        "question_yt_link": null,
+        "question_topics": [
+          "Binary Search Tree",
+          "Heap"
+        ]
+      },
+      {
+        "question_step_no": 22,
+        "question_step_title": "Distinct numbers in Window.",
+        "question_id": "distinctnmbrsinwindw",
+        "question_sl_no": 4,
+        "question_title": "Binary Trees[Miscellaneous]",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": "https://www.interviewbit.com/problems/distinct-numbers-in-window/",
+        "question_cn_link": "https://bit.ly/3zYWpcb",
+        "question_gfg_link": null,
+        "question_yt_link": null,
+        "question_topics": [
+          "Arrays",
+          "Data Structures",
+          "Hashing"
+        ]
+      },
+      {
+        "question_step_no": 22,
+        "question_step_title": "K-th largest element in an unsorted array.",
+        "question_id": "kthlrgstlmntinnnsrtdrry",
+        "question_sl_no": 5,
+        "question_title": "Binary Trees[Miscellaneous]",
+        "question_difficulty": "Easy",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+        "question_cn_link": "https://bit.ly/3GvQttz",
+        "question_gfg_link": null,
+        "question_yt_link": null,
+        "question_topics": [
+          "Arrays",
+          "Data Structures",
+          "Heap"
+        ]
+      },
+      {
+        "question_step_no": 22,
+        "question_step_title": "Flood-fill Algorithm",
+        "question_id": "fldfilllgrithm",
+        "question_sl_no": 6,
+        "question_title": "Binary Trees[Miscellaneous]",
+        "question_difficulty": "Hard",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/flood-fill/",
+        "question_cn_link": "https://bit.ly/3Gv1Th5",
+        "question_gfg_link": null,
+        "question_yt_link": null,
+        "question_topics": [
+          "Graph",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 23,
+    "question_step_title": "Graph",
+    "steps": [
+      {
+        "question_step_no": 23,
+        "question_step_title": "Clone a graph (Not that easy as it looks)",
+        "question_id": "clngrphntthtsysitlks",
+        "question_sl_no": 1,
+        "question_title": "Graph",
+        "question_difficulty": "Hard",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/clone-graph/",
+        "question_cn_link": "https://bit.ly/33BcVmE",
+        "question_gfg_link": null,
+        "question_yt_link": null,
+        "question_topics": [
+          "Graph",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 23,
+        "question_step_title": "DFS",
+        "question_id": "dfs",
+        "question_sl_no": 2,
+        "question_title": "Graph",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/depth-first-search-dfs/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/dfs-traversal_630462?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=dfs_of_graph",
+        "question_yt_link": "https://youtu.be/Qzf1a--rhp8",
+        "question_topics": [
+          "Graph",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 23,
+        "question_step_title": "BFS",
+        "question_id": "bfs",
+        "question_sl_no": 3,
+        "question_title": "Graph",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/graph/breadth-first-search-bfs-level-order-traversal/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/bfs-in-graph_973002?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=bfs_of_graph",
+        "question_yt_link": "https://youtu.be/-tgVpUgsQ5k",
+        "question_topics": [
+          "Arrays",
+          "Graph",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 23,
+        "question_step_title": "Detect A cycle in Undirected Graph using BFS",
+        "question_id": "dtctcyclinndirctdgrphsingbfs",
+        "question_sl_no": 4,
+        "question_title": "Graph",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-bfs/",
+        "question_lc_link": "https://leetcode.com/problems/course-schedule/",
+        "question_cn_link": "https://bit.ly/3npFdrn",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/BPlrALf1LDU",
+        "question_topics": [
+          "Graph",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 23,
+        "question_step_title": "Detect A cycle in Undirected Graph using DFS",
+        "question_id": "dtctcyclinndirctdgrphsingdfs",
+        "question_sl_no": 5,
+        "question_title": "Graph",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-dfs/",
+        "question_lc_link": "https://leetcode.com/problems/course-schedule/",
+        "question_cn_link": "https://bit.ly/3npFdrn",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/zQ3zgFypzX4",
+        "question_topics": [
+          "Graph",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 23,
+        "question_step_title": "Detect A cycle in a Directed Graph using DFS",
+        "question_id": "dtctcyclindirctdgrphsingdfs",
+        "question_sl_no": 6,
+        "question_title": "Graph",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/detect-a-cycle-in-directed-graph-topological-sort-kahns-algorithm-g-23/",
+        "question_lc_link": "https://leetcode.com/problems/course-schedule/",
+        "question_cn_link": "https://bit.ly/3FrzaZp",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=uzVUw90ZFIg&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=12",
+        "question_topics": [
+          "Graph",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 23,
+        "question_step_title": "Detect A cycle in a Directed Graph using BFS",
+        "question_id": "dtctcyclindirctdgrphsingbfs",
+        "question_sl_no": 7,
+        "question_title": "Graph",
+        "question_difficulty": "Hard",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/course-schedule/",
+        "question_cn_link": "https://bit.ly/3FrzaZp",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=iTBaI90lpDQ&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=23",
+        "question_topics": [
+          "Graph",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 23,
+        "question_step_title": "Topological Sort BFS",
+        "question_id": "tplgiclsrtbfs",
+        "question_sl_no": 8,
+        "question_title": "Graph",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/topological-sort-bfs/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/topological-sort/1",
+        "question_cn_link": "https://bit.ly/33bapUo",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/topological-sort/1",
+        "question_yt_link": "https://www.youtube.com/watch?v=73sneFXuTEg&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=22",
+        "question_topics": [
+          "Graph",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 23,
+        "question_step_title": "Topological Sort DFS",
+        "question_id": "tplgiclsrtdfs",
+        "question_sl_no": 9,
+        "question_title": "Graph",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/topological-sort-using-dfs/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/topological-sort/1",
+        "question_cn_link": "https://bit.ly/33bapUo",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/topological-sort/1",
+        "question_yt_link": "https://www.youtube.com/watch?v=5lZ0iJMrUMk&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=22",
+        "question_topics": [
+          "Graph",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 23,
+        "question_step_title": "Number of islands(Do in Grid and Graph Both)",
+        "question_id": "nmbrfislndsdingridndgrphbth",
+        "question_sl_no": 10,
+        "question_title": "Graph",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/number-of-distinct-islands/",
+        "question_lc_link": "https://leetcode.com/problems/number-of-islands/",
+        "question_cn_link": "https://bit.ly/3KaSCND",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=muncqlKJrH0&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=8",
+        "question_topics": [
+          "Graph",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 23,
+        "question_step_title": "Bipartite Check using BFS",
+        "question_id": "biprtitchcksingbfs",
+        "question_sl_no": 11,
+        "question_title": "Graph",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/is-graph-bipartite/",
+        "question_cn_link": "https://bit.ly/3tps98W",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=-vu34sct1g8&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=17",
+        "question_topics": [
+          "Graph",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 23,
+        "question_step_title": "Bipartite Check using DFS",
+        "question_id": "biprtitchcksingdfs",
+        "question_sl_no": 12,
+        "question_title": "Graph",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/graph/bipartite-graph-dfs-implementation/",
+        "question_lc_link": "https://leetcode.com/problems/is-graph-bipartite/",
+        "question_cn_link": "https://bit.ly/3tps98W",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=KG5YFfR0j8A&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=18",
+        "question_topics": [
+          "Graph",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 24,
+    "question_step_title": "Graph Part-II",
+    "steps": [
+      {
+        "question_step_no": 24,
+        "question_step_title": "Strongly Connected Component(using KosaRajuΓÇÖs algo)",
+        "question_id": "strnglycnnctdcmpnntsingksrjslg",
+        "question_sl_no": 1,
+        "question_title": "Graph Part-II",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/graph/strongly-connected-components-kosarajus-algorithm-g-54/",
+        "question_lc_link": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on",
+        "question_cn_link": "https://bit.ly/3twUKJP",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=V8qIqJxCioo&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=27",
+        "question_topics": [
+          "Graph",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 24,
+        "question_step_title": "DijkstraΓÇÖs Algorithm",
+        "question_id": "dijkstrslgrithm",
+        "question_sl_no": 2,
+        "question_title": "Graph Part-II",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/g-35-print-shortest-path-dijkstras-algorithm/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1",
+        "question_cn_link": "https://bit.ly/3qrEHLm",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1",
+        "question_yt_link": "https://www.youtube.com/watch?v=rp1SMw7HSO8&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=35",
+        "question_topics": [
+          "Graph",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 24,
+        "question_step_title": "Bellman-Ford Algo",
+        "question_id": "bllmnfrdlg",
+        "question_sl_no": 3,
+        "question_title": "Graph Part-II",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/bellman-ford-algorithm-g-41/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/0/?fbclid=IwAR2_lL0T84DnciLyzMTQuVTMBOi82nTWNLuXjUgahnrtBgkphKiYk6xcyJU",
+        "question_cn_link": "https://bit.ly/3GwAf3A",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/0/?fbclid=IwAR2_lL0T84DnciLyzMTQuVTMBOi82nTWNLuXjUgahnrtBgkphKiYk6xcyJU",
+        "question_yt_link": "https://www.youtube.com/watch?v=0vVofAhAYjc&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=41",
+        "question_topics": [
+          "Graph",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 24,
+        "question_step_title": "Floyd Warshall Algorithm",
+        "question_id": "flydwrshlllgrithm",
+        "question_sl_no": 4,
+        "question_title": "Graph Part-II",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/floyd-warshall-algorithm-g-42/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1",
+        "question_cn_link": "https://bit.ly/3Kb41Ny",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1",
+        "question_yt_link": "https://www.youtube.com/watch?v=YbY8cVwWAvw&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=42",
+        "question_topics": [
+          "Graph",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 24,
+        "question_step_title": "MST using Prim's Algo",
+        "question_id": "mstsingprimslg",
+        "question_sl_no": 5,
+        "question_title": "Graph Part-II",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/prims-algorithm-minimum-spanning-tree-c-and-java-g-45/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1",
+        "question_cn_link": "https://bit.ly/3I5Ktbi",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1",
+        "question_yt_link": "https://www.youtube.com/watch?v=mJcZjjKzeqk&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=44",
+        "question_topics": [
+          "Graph",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 24,
+        "question_step_title": "MST using KruskalΓÇÖs Algo",
+        "question_id": "mstsingkrsklslg",
+        "question_sl_no": 6,
+        "question_title": "Graph Part-II",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/kruskals-algorithm-minimum-spanning-tree-g-47/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1",
+        "question_cn_link": "https://bit.ly/3I1VqL9",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1",
+        "question_yt_link": "https://www.youtube.com/watch?v=1KRmCzBl_mQ&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=24",
+        "question_topics": [
+          "Graph",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 25,
+    "question_step_title": "Dynamic Programming",
+    "steps": [
+      {
+        "question_step_no": 25,
+        "question_step_title": "Max Product Subarray",
+        "question_id": "mxprdctsbrry",
+        "question_sl_no": 1,
+        "question_title": "Dynamic Programming",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/maximum-product-subarray-in-an-array/",
+        "question_lc_link": "https://leetcode.com/problems/maximum-product-subarray/",
+        "question_cn_link": "https://bit.ly/3fqz6OS",
+        "question_gfg_link": null,
+        "question_yt_link": null,
+        "question_topics": [
+          "Arrays",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 25,
+        "question_step_title": "Longest Increasing Subsequence",
+        "question_id": "lngstincrsingsbsqnc",
+        "question_sl_no": 2,
+        "question_title": "Dynamic Programming",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/longest-increasing-subsequence-dp-41/",
+        "question_lc_link": "https://leetcode.com/problems/longest-increasing-subsequence/",
+        "question_cn_link": "https://bit.ly/3GuWGpA",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/ekcwMsSIzVc",
+        "question_topics": [
+          "Arrays",
+          "Binary Search",
+          "Dynamic Programming",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 25,
+        "question_step_title": "Longest Common Subsequence",
+        "question_id": "lngstcmmnsbsqnc",
+        "question_sl_no": 3,
+        "question_title": "Dynamic Programming",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/longest-common-subsequence-dp-25/",
+        "question_lc_link": "https://leetcode.com/problems/longest-common-subsequence/",
+        "question_cn_link": "https://bit.ly/3raZbqM",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/NPZn9jBrX8U",
+        "question_topics": [
+          "String",
+          "Dynamic Programming",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 25,
+        "question_step_title": "0-1 Knapsack",
+        "question_id": "01knpsck",
+        "question_sl_no": 4,
+        "question_title": "Dynamic Programming",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/0-1-knapsack-dp-19/",
+        "question_lc_link": "https://bit.ly/3FvHbMO",
+        "question_cn_link": "https://bit.ly/3FvHbMO",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1",
+        "question_yt_link": "https://youtu.be/GqOmJHQZivw",
+        "question_topics": [
+          "Greedy",
+          "Arrays",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 25,
+        "question_step_title": "Edit Distance",
+        "question_id": "ditdistnc",
+        "question_sl_no": 5,
+        "question_title": "Dynamic Programming",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/edit-distance-dp-33/",
+        "question_lc_link": "https://leetcode.com/problems/edit-distance/",
+        "question_cn_link": "https://bit.ly/3qpUHgE",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/fJaKO8FbDdo",
+        "question_topics": [
+          "Arrays",
+          "Data Structures",
+          "Dynamic Programming",
+          "Recursion"
+        ]
+      },
+      {
+        "question_step_no": 25,
+        "question_step_title": "Maximum sum increasing subsequence",
+        "question_id": "mximmsmincrsingsbsqnc",
+        "question_sl_no": 6,
+        "question_title": "Dynamic Programming",
+        "question_difficulty": "Hard",
+        "question_post_link": null,
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1",
+        "question_cn_link": "https://bit.ly/3tqiS0s",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1",
+        "question_yt_link": null,
+        "question_topics": [
+          "Dynamic Programming",
+          "Arrays",
+          "Recursion",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 25,
+        "question_step_title": "Matrix Chain Multiplication",
+        "question_id": "mtrixchinmltiplictin",
+        "question_sl_no": 7,
+        "question_title": "Dynamic Programming",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/dynamic-programming/matrix-chain-multiplication-dp-48/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1",
+        "question_cn_link": "https://bit.ly/3qqX56T",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1",
+        "question_yt_link": "https://youtu.be/vRVfmbCFW7Y",
+        "question_topics": [
+          "Arrays",
+          "Dynamic Programming",
+          "Recursion",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 26,
+    "question_step_title": "Dynamic Programming Part-II",
+    "steps": [
+      {
+        "question_step_no": 26,
+        "question_step_title": "Minimum sum path in the matrix, (count paths and similar type do, also backtrack to find the Minimum path)",
+        "question_id": "minimmsmpthinthmtrixcntpthsndsimilrtypdlsbcktrcktfindthminimmpth",
+        "question_sl_no": 1,
+        "question_title": "Dynamic Programming Part-II",
+        "question_difficulty": "Easy",
+        "question_post_link": "https://takeuforward.org/data-structure/minimum-path-sum-in-a-grid-dp-10/",
+        "question_lc_link": "https://leetcode.com/problems/minimum-path-sum/",
+        "question_cn_link": "https://bit.ly/3zWJEin",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/_rgTlyky1uQ",
+        "question_topics": [
+          "Unknown"
+        ]
+      },
+      {
+        "question_step_no": 26,
+        "question_step_title": "Coin change",
+        "question_id": "cinchng",
+        "question_sl_no": 2,
+        "question_title": "Dynamic Programming Part-II",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/coin-change-2-dp-22/",
+        "question_lc_link": "https://leetcode.com/problems/coin-change/",
+        "question_cn_link": "https://bit.ly/3GwBrnA",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/HgyouUi11zk",
+        "question_topics": [
+          "Dynamic Programming",
+          "Data Structures",
+          "Recursion",
+          "Arrays"
+        ]
+      },
+      {
+        "question_step_no": 26,
+        "question_step_title": "Subset Sum",
+        "question_id": "sbstsm",
+        "question_sl_no": 3,
+        "question_title": "Dynamic Programming Part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/subset-sum-equal-to-target-dp-14/",
+        "question_lc_link": "https://leetcode.com/problems/partition-equal-subset-sum/",
+        "question_cn_link": "https://bit.ly/3rjUdb7",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=fWX9xDmIzRI",
+        "question_topics": [
+          "Arrays",
+          "Dynamic Programming",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 26,
+        "question_step_title": "Rod Cutting",
+        "question_id": "rdctting",
+        "question_sl_no": 4,
+        "question_title": "Dynamic Programming Part-II",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/rod-cutting-problem-dp-24/",
+        "question_lc_link": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
+        "question_cn_link": "https://bit.ly/3GuIsoS",
+        "question_gfg_link": null,
+        "question_yt_link": "https://youtu.be/mO8XpGoJwuo",
+        "question_topics": [
+          "Arrays",
+          "Dynamic Programming",
+          "Data Structures",
+          "Recursion"
+        ]
+      },
+      {
+        "question_step_no": 26,
+        "question_step_title": "Egg Dropping",
+        "question_id": "ggdrpping",
+        "question_sl_no": 5,
+        "question_title": "Dynamic Programming Part-II",
+        "question_difficulty": "Hard",
+        "question_post_link": null,
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1",
+        "question_cn_link": "https://bit.ly/3A6id5O",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1",
+        "question_yt_link": null,
+        "question_topics": [
+          "Dynamic Programming",
+          "Maths",
+          "Binary Search"
+        ]
+      },
+      {
+        "question_step_no": 26,
+        "question_step_title": "Word Break",
+        "question_id": "wrdbrk",
+        "question_sl_no": 6,
+        "question_title": "Dynamic Programming Part-II",
+        "question_difficulty": "Easy",
+        "question_post_link": null,
+        "question_lc_link": "https://leetcode.com/problems/word-break/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/word-break-1_758963?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3bVT5XN",
+        "question_yt_link": null,
+        "question_topics": [
+          "Unknown"
+        ]
+      },
+      {
+        "question_step_no": 26,
+        "question_step_title": "Palindrome Partitioning (MCM Variation)",
+        "question_id": "plindrmprtitiningmcmvritin",
+        "question_sl_no": 7,
+        "question_title": "Dynamic Programming Part-II",
+        "question_difficulty": "Hard",
+        "question_post_link": null,
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1",
+        "question_cn_link": "https://bit.ly/3tq9MRn",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1",
+        "question_yt_link": "https://youtu.be/_H8V5hJUGd0",
+        "question_topics": [
+          "String",
+          "Data Structures",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "question_step_no": 26,
+        "question_step_title": "Maximum profit in Job scheduling",
+        "question_id": "mximmprfitinjbschdling",
+        "question_sl_no": 8,
+        "question_title": "Dynamic Programming Part-II",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1",
+        "question_cn_link": "https://bit.ly/34FoY2C",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1",
+        "question_yt_link": null,
+        "question_topics": [
+          "Arrays",
+          "Greedy",
+          "Data Structures"
+        ]
+      }
+    ]
+  },
+  {
+    "question_step_no": 27,
+    "question_step_title": "Trie",
+    "steps": [
+      {
+        "question_step_no": 27,
+        "question_step_title": "Implement Trie (Prefix Tree)",
+        "question_id": "implmnttriprfixtr",
+        "question_sl_no": 1,
+        "question_title": "Trie",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/implement-trie-1/",
+        "question_lc_link": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+        "question_cn_link": "https://bit.ly/33wIn5x",
+        "question_gfg_link": null,
+        "question_yt_link": "https://www.youtube.com/watch?v=dBGUmUQhjaM&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp",
+        "question_topics": [
+          "Trie",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 27,
+        "question_step_title": "Implement Trie - 2 (Prefix Tree)",
+        "question_id": "implmnttri2prfixtr",
+        "question_sl_no": 2,
+        "question_title": "Trie",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/implement-trie-ii/",
+        "question_lc_link": "https://bit.ly/3qwT4OL",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/trie-delete-operation_1062663?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3SUAiwJ",
+        "question_yt_link": null,
+        "question_topics": [
+          "Trie",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 27,
+        "question_step_title": "Longest String with All Prefixes",
+        "question_id": "lngststringwithllprfixs",
+        "question_sl_no": 3,
+        "question_title": "Trie",
+        "question_difficulty": "Medium",
+        "question_post_link": null,
+        "question_lc_link": "https://bit.ly/3n3kedU",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/longest-common-prefix_2090383?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3Qx5AYB",
+        "question_yt_link": "https://www.youtube.com/watch?v=AWnBa91lThI&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=3",
+        "question_topics": [
+          "String",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 27,
+        "question_step_title": "Number of Distinct Substrings in a String",
+        "question_id": "nmbrfdistinctsbstringsinstring",
+        "question_sl_no": 4,
+        "question_title": "Trie",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/data-structure/number-of-distinct-substrings-in-a-string-using-trie/",
+        "question_lc_link": "https://bit.ly/3ocRQW0",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/count-distinct-substrings_985292?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/count-of-distinct-substrings/1",
+        "question_yt_link": "https://www.youtube.com/watch?v=RV0QeTyHZxo&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=4",
+        "question_topics": [
+          "String",
+          "Trie",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 27,
+        "question_step_title": "Power Set (this is very important)",
+        "question_id": "pwrstthisisvryimprtnt",
+        "question_sl_no": 5,
+        "question_title": "Trie",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/power-set-print-all-the-possible-subsequences-of-the-string/",
+        "question_lc_link": "https://practice.geeksforgeeks.org/problems/power-set4302/1#",
+        "question_cn_link": "https://bit.ly/3fmd28k",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/power-set4302/1#",
+        "question_yt_link": "https://www.youtube.com/watch?v=b7AYbpM5YrE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=67",
+        "question_topics": [
+          "Recursion",
+          "Data Structures"
+        ]
+      },
+      {
+        "question_step_no": 27,
+        "question_step_title": "Maximum XOR of two numbers in an array",
+        "question_id": "mximmxrftwnmbrsinnrry",
+        "question_sl_no": 6,
+        "question_title": "Trie",
+        "question_difficulty": "Medium",
+        "question_post_link": "https://takeuforward.org/data-structure/maximum-xor-of-two-numbers-in-an-array/",
+        "question_lc_link": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
+        "question_cn_link": "https://www.codingninjas.com/codestudio/problems/maximum-xor_3119012?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://practice.geeksforgeeks.org/problems/maximum-xor-of-two-numbers-in-an-array/0",
+        "question_yt_link": "https://www.youtube.com/watch?v=EIhAwfHubE8&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=6",
+        "question_topics": [
+          "Arrays",
+          "Hashing",
+          "Bit Manipulation",
+          "Data Structures",
+          "Trie"
+        ]
+      },
+      {
+        "question_step_no": 27,
+        "question_step_title": "Maximum XOR With an Element From Array",
+        "question_id": "mximmxrwithnlmntfrmrry",
+        "question_sl_no": 7,
+        "question_title": "Trie",
+        "question_difficulty": "Hard",
+        "question_post_link": "https://takeuforward.org/trie/maximum-xor-queries-trie/",
+        "question_lc_link": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
+        "question_cn_link": "https://www.codingninjas.com/studio/problems/maximum-xor-with-an-element-from-array_1382020?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
+        "question_gfg_link": "https://bit.ly/3tNYB3Y",
+        "question_yt_link": "https://www.youtube.com/watch?v=Q8LhG9Pi5KM&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=7",
+        "question_topics": [
+          "Arrays",
+          "Bit Manipulation",
+          "Trie",
+          "Data Structures"
+        ]
+      }
+    ]
+  }
+]

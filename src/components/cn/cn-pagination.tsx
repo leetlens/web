@@ -20,7 +20,6 @@ export function CnPagination({
   totalPages,
   itemsPerPage,
   onPageChange,
-  onItemsPerPageChange,
 }: PaginationProps) {
   return (
     <div className="mt-4 flex flex-col-reverse items-center md:flex-row md:justify-between">
