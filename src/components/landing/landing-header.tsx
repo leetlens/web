@@ -23,7 +23,7 @@ export default function LandingHeader() {
 
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background/80 backdrop-blur-sm dark:border-b-white/10">
-      <div className="mx-auto flex items-center justify-between px-4 md:px-16 lg:px-32 py-5">
+      <div className="mx-auto flex items-center justify-between px-4 md:px-16 lg:px-52 py-5">
         <Link
           href="/"
           className="text-3xl font-bold text-center p-2 hover:opacity-80 transition-opacity"

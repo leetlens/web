@@ -143,7 +143,7 @@ export default function LcCompanySearch() {
         {filteredCompanies.map((company) => (
           <a
             key={company.slug}
-            href={`/companies/${company.slug}`}
+            href={`lc/${company.slug}`}
             className="flex items-center justify-between py-1.5 px-2 rounded-lg hover:bg-zinc-900 transition-colors"
           >
             <span className="text-sm text-zinc-300 font-medium">

@@ -1,24 +1,25 @@
 import Balancer from "react-wrap-balancer";
-import { ArrowRight, Code2 } from "lucide-react";
+import { ArrowRight } from "lucide-react";
+import AnimatedGradientText from "@/components/ui/animated-gradient-text";
 
 export default function LandingContent() {
   return (
-    <div className="relative flex min-h-[calc(100vh-10rem)] flex-col items-center justify-center px-4">
+    <div className="relative flex min-h-[calc(100vh-20rem)] flex-col items-center justify-center px-4">
       <div className="mb-8 text-center">
-        <div className="inline-flex items-center space-x-2 rounded-full bg-background/20 px-5 py-2.5 text-sm backdrop-blur-xl border border-primary/10 mb-6 hover:border-primary/20 transition-colors dark:border-zinc-700/50 dark:hover:border-zinc-700">
+        <AnimatedGradientText>Welcome to LeetLens Beta!</AnimatedGradientText>
+        {/* <div className="inline-flex items-center space-x-2 rounded-full bg-background/20 px-5 py-2.5 text-sm backdrop-blur-xl border border-primary/10 mb-6 hover:border-primary/20 transition-colors dark:border-zinc-700/50 dark:hover:border-zinc-700">
           <Code2 className="h-4 w-4 text-cyan-500" />
+
           <span className="bg-gradient-to-r from-cyan-500 to-blue-500 bg-clip-text text-transparent font-medium">
             Welcome to LeetLens Beta!
           </span>
-        </div>
+        </div> */}
 
         {/* <h1 className="text-center md:max-w-6xl animate-fade-up bg-gradient-to-br from-foreground to-muted-foreground bg-clip-text text-3xl md:text-5xl font-bold tracking-tight text-transparent sm:text-6xl md:min-h-[160px]"> */}
-        <h1 className="text-center md:max-w-6xl animate-fade-up text-3xl md:text-6xl font-bold tracking-tighter bg-gradient-to-br from-gray-900 to-cyan-500 dark:from-cyan-500 dark:to-gray-400 text-transparent bg-clip-text sm:text-6xl md:min-h-[130px]">
-          <Balancer>
-            Master Company-Specific Questions Across All Coding Platforms
-          </Balancer>
+        <h1 className="text-center md:max-w-6xl animate-fade-up text-5xl md:text-7xl font-bold tracking-tighter bg-gradient-to-br from-gray-900 to-cyan-500 dark:from-cyan-500 dark:to-gray-400 text-transparent bg-clip-text sm:text-6xl md:min-h-[180x]">
+          <Balancer>Master Company Specific DSA Questions</Balancer>
         </h1>
-        <p className="mt-4 text-muted-foreground sm:text-lg text-center mx-auto max-w-5xl dark:text-zinc-400">
+        <p className="mt-4 text-muted-foreground sm:text-xl text-center mx-auto max-w-5xl dark:text-zinc-400">
           <Balancer>
             Access curated collections of interview questions from top
             companies. Practice, learn, and prepare with our comprehensive

@@ -17,7 +17,7 @@ export function LCBanner({ className }: LCBannerProps) {
     <div className="w-full">
       <div
         className={cn(
-          "max-w-[95%] mx-auto flex items-center justify-between p-6 bg-gradient-to-r from-gray-900 to-gray-800 rounded-lg",
+          "flex items-center justify-between p-6 px-32 h-60 bg-gradient-to-r from-gray-900 to-gray-800 rounded-lg",
           className
         )}
       >
