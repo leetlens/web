@@ -143,7 +143,7 @@ export default function LcCompanySearch() {
         {filteredCompanies.map((company) => (
           <a
             key={company.slug}
-            href={`lc/${company.slug}`}
+            href={`leetcode/${company.slug}`}
             className="flex items-center justify-between py-1.5 px-2 rounded-lg hover:bg-zinc-900 transition-colors"
           >
             <span className="text-sm text-zinc-300 font-medium">
@@ -161,9 +161,9 @@ export default function LcCompanySearch() {
           <h3 className="mt-4 text-lg font-medium text-zinc-400">
             No companies found
           </h3>
-          <p className="mt-2 text-sm text-zinc-500">
+          <div className="mt-2 text-sm text-zinc-500">
             Try adjusting your search
-          </p>
+          </div>
         </div>
       )}
     </div>

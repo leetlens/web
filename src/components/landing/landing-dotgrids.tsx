@@ -12,7 +12,7 @@ export function DotPatternBackground() {
           width={20}
           height={20}
           className={cn(
-            "absolute inset-0 h-full w-full fill-white [mask-image:radial-gradient(ellipse_at_center,white,transparent)] dark:fill-white/[0.15]",
+            "absolute inset-0 h-full w-full fill-black/20 [mask-image:radial-gradient(ellipse_at_center,white,transparent)] dark:fill-white/[0.15]",
             "animate-fade-in"
           )}
         />

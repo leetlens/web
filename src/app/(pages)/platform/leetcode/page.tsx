@@ -1,6 +1,6 @@
 "use client";
 import LandingHeader from "@/components/landing/landing-header";
-import { LCBanner } from "@/components/lc/lc-banner";
+import LCBanner from "@/components/lc/lc-banner";
 import CompaniesSearch from "@/components/lc/lc-companysearch";
 import ProblemTable from "@/components/lc/lc-table";
 
